@@ -1,0 +1,1478 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1  tvg-name="Первый HD" group-title="1  Эфирные",Первый HD
+http://tv.streams.baikal-telecom.net:8080/PerviyHD/index.m3u8
+#EXTINF:-1  tvg-name="Первый HD" group-title="1  Эфирные",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-name="Первый канал" group-title="1  Эфирные",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1  tvg-name="Россия 1" group-title="1  Эфирные",Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1  tvg-name="Россия 1" group-title="1  Эфирные",Россия 1 (Омск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-sd/index.m3u8
+#EXTINF:-1  tvg-name="Россия 1" group-title="1  Эфирные",Россия 1 (ОМСК)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1  tvg-name="Россия 1 HD" group-title="1  Эфирные",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1  tvg-name="Россия 1 HD" group-title="1  Эфирные",Россия 1 HD
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1  tvg-name="Россия 1 HD" group-title="1  Эфирные",Россия 1 HD
+http://91.224.169.250:5000/c68
+#EXTINF:-1  tvg-name="Россия 24" group-title="1  Эфирные",Россия 24 (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/index.m3u8
+#EXTINF:-1  tvg-name="Россия 24" group-title="1  Эфирные",Россия 24 HD
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1  tvg-name="Россия 24" group-title="1  Эфирные",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=3#parser
+#EXTINF:-1  tvg-name="RTД" group-title="1  Эфирные",RTД HD
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1  tvg-name="RTД" group-title="1  Эфирные",RTД HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1  tvg-name="RT" group-title="1  Эфирные",RT HD
+http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Известия" group-title="1  Эфирные",Известия HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1  tvg-name="Звезда HD" group-title="1  Эфирные",Звезда HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1  tvg-name="Звезда HD" group-title="1  Эфирные",Звезда HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1  tvg-name="Звезда HD" group-title="1  Эфирные",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
+#EXTINF:-1  tvg-name="Звезда" group-title="1  Эфирные",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1  tvg-name="История" group-title="1  Эфирные",История
+http://31.148.48.15:80/Istoriya/index.m3u8?token=test
+#EXTINF:-1  tvg-name="История" group-title="1  Эфирные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1  tvg-name="История" group-title="1  Эфирные",История
+http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
+#EXTINF:-1  tvg-name="История" group-title="1  Эфирные",История
+http://109.200.130.123:7537/play/a025
+#EXTINF:-1  tvg-name="Неизвестная Россия (HD)" group-title="1  Эфирные",Неизвестная Россия (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="360 HD" group-title="1  Эфирные",360 HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
+#EXTINF:-1  tvg-name="360 HD" group-title="1  Эфирные",360 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  tvg-name="РБК" group-title="1  Эфирные",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1  tvg-name="РБК" group-title="1  Эфирные",РБК
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1  tvg-name="Рен ТВ" group-title="1  Эфирные",Рен ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1  tvg-name="Рен ТВ" group-title="1  Эфирные",Рен ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://93.189.224.246:52900/play/a00v/index.m3u8
+#EXTINF:-1  tvg-name="Рен ТВ HD" group-title="1  Эфирные",РЕН ТВ HD
+http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Рен ТВ HD" group-title="1  Эфирные",РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1  tvg-name="Пятый канал" group-title="1  Эфирные",5 канал Россия
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1  tvg-name="12 канал (Омск)" group-title="1  Эфирные",12 Канал (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1  tvg-name="12 канал (Омск)" group-title="1  Эфирные",12 канал HD (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1  tvg-name="12 канал (Омск)" group-title="1  Эфирные",12 канал HD (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1  tvg-name="Омск-ТВ" group-title="1  Эфирные",Омск-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-name="Первый городской (Омск)" group-title="1  Эфирные",Первый городской (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
+#EXTINF:-1  tvg-name="НТВ HD" group-title="1  Эфирные",НТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="НТВ HD" group-title="1  Эфирные",НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
+#EXTINF:-1  tvg-name="НТВ" group-title="1  Эфирные",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1  tvg-name="НТВ" group-title="1  Эфирные",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?checkedby:iptvcat.net
+#EXTINF:-1  tvg-name="ТВЦ" group-title="1  Эфирные",ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1  tvg-name="ТВЦ +2" group-title="1  Эфирные",ТВ Центр +2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1  tvg-name="ОТР" group-title="1  Эфирные",ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1  tvg-name="ОТР" group-title="1  Эфирные",ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1  tvg-name="Домашний HD" group-title="1  Эфирные",Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1  tvg-name="Домашний" group-title="1  Эфирные",Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1  tvg-name="Спас" group-title="1  Эфирные",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1  tvg-name="Спас" group-title="1  Эфирные",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1  tvg-name="Союз" group-title="1  Эфирные",Союз HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1  tvg-name="Союз" group-title="1  Эфирные",Союз HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Soyuz/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Мир 24" group-title="1  Эфирные",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1  tvg-name="Мир HD" group-title="1  Эфирные",Мир HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1  tvg-name="Мир" group-title="1  Эфирные",Мир
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1  tvg-name="Мир" group-title="1  Эфирные",Мир +4
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1  tvg-name="РОССИЯ Культура" group-title="1  Эфирные",Культура HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1  tvg-name="РОССИЯ Культура" group-title="1  Эфирные",Культура
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_ROSSIAK/variant.m3u8
+#EXTINF:-1  tvg-name="РОССИЯ Культура" group-title="1  Эфирные",Культура
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1  tvg-name="ТВ3 HD" group-title="1  Эфирные",ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1  tvg-name="ТВ3" group-title="1  Эфирные",ТВ-3
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-name="ТВ3" group-title="1  Эфирные",ТВ-3
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1  tvg-name="СТС" group-title="1  Эфирные",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1  tvg-name="СТС HD" group-title="1  Эфирные",СТС HD
+http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="СТС HD" group-title="1  Эфирные",СТС HD
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="СТС HD" group-title="1  Эфирные",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1  tvg-name="СТС Love" group-title="1  Эфирные",СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1  tvg-name="ТНТ" group-title="1  Эфирные",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1  tvg-name="ТНТ HD" group-title="1  Эфирные",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1  tvg-name="ТНТ4 HD" group-title="1  Эфирные",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1  tvg-name="ТНТ4 HD" group-title="1  Эфирные",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1  tvg-name="Ю ТВ" group-title="1  Эфирные",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1  tvg-name="Пятница!" group-title="1  Эфирные",Пятница! HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1  tvg-name="Пятница!" group-title="1  Эфирные",Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1  tvg-name="Че!" group-title="1  Эфирные",Че!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1  tvg-name="Че!" group-title="1  Эфирные",Че!
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://178.212.71.253:8002/play/a00s/index.m3u8
+#EXTINF:-1  tvg-name="Перец" group-title="1  Эфирные",Перец
+rtmp://212.0.213.132//Teledom
+#EXTINF:-1  tvg-name="Перец International" group-title="1  Эфирные",Перец
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1  tvg-name="Якутия 24" group-title="1  Эфирные",Якутия 24
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:-1  tvg-name="Якутия 24 HD" group-title="1  Эфирные",Якутия 24 HD (Якутск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+#EXTINF:-1  tvg-name="НВК Саха FHD" group-title="1  Эфирные",НВК САХА HD (Якутск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1  tvg-name="НВК Саха FHD" group-title="1  Эфирные",НВК САХА HD (Якутск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1  tvg-name="Алмазный край" group-title="1  Эфирные",Алмазный край
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1  tvg-name="Беларусь 24" group-title="1  Эфирные",Беларусь 24 HD (Беларусь)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="TV Rus" tvg-logo="*" group-title="1  Эфирные",TV Rus
+http://99c385b6.amazzin.pw/iptv/K2LTLTY5Y7X65V/14022/index.m3u8
+#EXTINF:-1  tvg-name="Авто 24" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://178.124.152.238:8088/auto24
+#EXTINF:-1  tvg-name="Авто Плюс" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Авто Плюс" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://213.226.137.140:81/tl/l105/index.m3u8
+#EXTINF:-1  tvg-name="Драйв" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Драйв
+http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
+#EXTINF:-1  tvg-name="Драйв" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Драйв
+http://stream2.cinerama.uz/1421/mono.m3u8
+#EXTINF:-1  tvg-name="Здоровое ТВ" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1  tvg-name="Доктор" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Доктор
+http://178.57.121.38:8080/doctor/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Моя планета" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD
+http://95.156.76.230:33001/udp/230.4.34.36:1234
+#EXTINF:-1  tvg-name="Моя планета" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD.m3u8
+#EXTINF:-1  tvg-name="Моя планета" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+http://31.210.208.171:8080/planeta_hd/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="Моя Стихия" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Моя Стихия
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+rtmp://5.182.229.90//7349
+#EXTINF:-1  tvg-name="Моя стихия HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Моя стихия HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://130.193.73.10:8937/play/a02f
+#EXTINF:-1  tvg-name="Наука HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1  tvg-name="Наука HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live.admuspeh.my/8104/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Нано ТВ HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Нано ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
+#EXTINF:-1  tvg-name="Нано ТВ HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Нано ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Неизвестная россия HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Неизвестная россия HD
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="Discovery Science HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Discovery Science HD
+http://185.246.66.143:8000/channel/701884a8/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
+#EXTINF:-1  tvg-name="Discovery Science HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Discovery Science HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://81.177.136.209:8004/playlist.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
+#EXTINF:-1  tvg-name="Investigation Discovery HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Investigation Discovery HD
+http://83.234.207.29:8008/play/a01a/index.m3u8
+#EXTINF:-1  tvg-name="Глазами Туриста 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста HD
+http://91.205.199.3/glazamituristahd/index.m3u8
+#EXTINF:-1  tvg-name="Т24" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Техно 24
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://178.163.16.7:4022/udp/234.0.0.247:2000
+#EXTINF:-1  tvg-name="Мужской" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",MУЖСКОЙ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1  tvg-name="Диалоги о рыбалке HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Диалоги о рыбалке HD
+rtmp://92.119.88.58//2394
+#EXTINF:-1  tvg-name="Диалоги о рыбалке HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Диалоги о рыбалке HD
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+#EXTINF:-1  tvg-name="Диалоги о рыбалке HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Диалоги о рыбалке HD
+http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Дикий" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Дикий
+http://65.21.85.175:8000/play/a00k/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Дикий" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Дикий
+http://95.156.76.230:33001/udp/230.4.34.78:1234
+#EXTINF:-1  tvg-name="Дикая охота HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Дикая охота HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1  tvg-name="Дикая рыбалка HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1  tvg-name="Охотник и рыболов" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1  tvg-name="Рыбалка и охота" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Рыбалка и охота
+http://86.57.178.105:9952/oh
+#EXTINF:-1  tvg-name="Охота и Рыбалка" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Рыболов HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Рыболов
+http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Телепутешествия" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Телепутешествия
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Телепутешествия" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Телепутешествия
+http://185.23.80.28:8080/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Домашние Животные" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Домашние Животные
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://130.193.73.10:8937/play/a02d
+#EXTINF:-1  tvg-name="Домашние Животные" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Домашние Животные
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
+#EXTINF:-1  tvg-name="Animal Planet" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-name="Animal Planet" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
+#EXTINF:-1  tvg-name="Animal Planet" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+https://livetv.mylifeisgood.net.ru/channels/06abc038d8d3467acfaa5a154c9a8c95863f3ca86d5677a9a9caa9d381e3d7f3.m3u8
+#EXTINF:-1  tvg-name="Оружие" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Оружие
+http://185.37.150.40:8092/orujie/playlist.m3u8
+#EXTINF:-1  tvg-name="Арсенал HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Арсенал HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
+#EXTINF:-1  tvg-name="Арсенал HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Арсенал HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Tekhno24/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Арсенал HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Арсенал HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/Arsenal_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Арсенал HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Арсенал HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
+#EXTINF:-1  tvg-name="Galaxy" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Galaxy HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1  tvg-name="Galaxy" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Galaxy HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://iptv.mega.net.ru:8888/Galaxy_TV/mono.m3u8
+#EXTINF:-1  tvg-name="Первый Космический HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Первый Космический HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/Evrika_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Первый Космический HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Первый Космический HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1  tvg-name="Приключения HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Приключения HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Приключения HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Приключения HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/fe29856d7da45bdb1d03deff8b9b3214.m3u8
+#EXTINF:-1  tvg-name="History HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",History
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="History2 HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",History2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1  tvg-name="History2 HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",History2 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.246.66.143:8000/channel/n7889f84a/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
+#EXTINF:-1  tvg-name="Nasa TV" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Nasa TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1  tvg-name="NASA 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",NASA 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1  tvg-name="Nat Geo Wild HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1  tvg-name="Nat Geo Wild HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1  tvg-name="National Geographic" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="National Geographic" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Travel+Adventure" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Travel + Adventure
+http://31.184.197.124/TravelAdventureHD/mono.m3u8
+#EXTINF:-1  tvg-name="Viju Explore HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Explore HD
+http://live.admuspeh.my/8085/video.m3u8?token=test
+#EXTINF:-1  tvg-name="Viju Explore HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Explore
+http://213.226.137.140:81/tl/l94/mpegts
+#EXTINF:-1  tvg-name="Viju Explore HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Explore
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1  tvg-name="Viju Explore HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Explore HD
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+#EXTINF:-1  tvg-name="Viju History HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju History HD
+http://86.57.198.251:8181/play/1017/index.m3u8
+#EXTINF:-1  tvg-name="Viju History HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju History HD
+https://flussonic.salomtv.uz/Viasat_History/video.m3u8
+#EXTINF:-1  tvg-name="Viju History HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju History HD
+https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
+#EXTINF:-1  tvg-name="Viju Nature HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Viju Nature HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Nature
+https://flussonic.salomtv.uz/Viasat_Nature/video.m3u8
+#EXTINF:-1  tvg-name="Viju Nature HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Nature
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
+#EXTINF:-1  tvg-name="Viju+ Planet" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Viju Planet HD
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1  tvg-name="ZooПарк" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",ZooПарк
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://185.37.150.40:8092/Zoo/playlist.m3u8
+#EXTINF:-1  tvg-name="Зоо ТВ" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Зоо ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1  tvg-name="В мире животных HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD
+http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Поехали!" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Поехали!" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+#EXTINF:-1  tvg-name="Усадьба" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://178.124.179.122:8088/Usadba/index.m3u8
+#EXTINF:-1  tvg-name="Загородная жизнь" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь
+http://195.26.83.96:7007/play/10/index.m3u8
+#EXTINF:-1  tvg-name="Загородный" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Загородный
+http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1  tvg-name="Загородный int HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Загородный int HD
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1  tvg-name="Бобёр" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Бобёр
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1  tvg-name="Бобёр" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Бобёр
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1  tvg-name="Психология 21" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Психология
+http://live.admuspeh.my/8192/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Совершенно секретно" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Совершенно секретно
+https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
+#EXTINF:-1  tvg-name="Совершенно секретно" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Совершенно секретно
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/sovershennosekretno/index.m3u8
+#EXTINF:-1  tvg-name="Живая планета" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+http://130.193.73.10:8937/play/a01m
+#EXTINF:-1  tvg-name="Живая природа HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Живая природа HD
+http://95.156.76.230:33001/udp/230.4.34.25:1234
+#EXTINF:-1  tvg-name="Живая природа HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Живая природа HD
+http://91.205.199.3/jivayaprirodahd/index.m3u8
+#EXTINF:-1  tvg-name="Живая природа HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Живая природа HD
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1  tvg-name="Love Nature 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4K eng
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1  tvg-name="Museum TV 4k" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Museum TV 4k
+http://31.184.197.124/museum_hd/mono.m3u8
+#EXTINF:-1  tvg-name="Наша Сибирь 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Наша Сибирь HD
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1  tvg-name="Наша Сибирь 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8
+#EXTINF:-1  tvg-name="HOME 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",HOME 4K
+https://livetv.mylifeisgood.net.ru/channels/0fcf4d9882d7bde663310c9820c74381.m3u8
+#EXTINF:-1  tvg-name="World HD" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="QUADRO 4K" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",QUADRO 4K
+https://livetv.mylifeisgood.net.ru/channels/dd3f71bc102eed2448b1efec8696cf22.m3u8
+#EXTINF:-1  tvg-name="Terra" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",TERRA HD
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1  tvg-name="Terra" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",TERRA HD
+http://130.193.73.10:8937/play/a01g
+#EXTINF:-1  tvg-name="365 дней ТВ" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",365 дней ТВ
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="English Class" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",English Class
+https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="English Club TV" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",English Club TV
+http://otv.wotom.net:4433/udp/238.1.1.109:1234
+#EXTINF:-1  tvg-name="Министерство идей HD" tvg-logo="*" group-title="2  ПОЗНАВАТЕЛЬНЫЕ",Министерство идей HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Мосфильм. Золотая коллекция" group-title="3  КИНО",Мосфильм. Золотая коллекция
+http://185.50.148.2:7706/Mosfilm/index.m3u8
+#EXTINF:-1  tvg-name="Мосфильм. Золотая коллекция" group-title="3  КИНО",Мосфильм. Золотая коллекция
+http://95.156.76.230:33001/udp/230.4.34.124:1234
+#EXTINF:-1  tvg-name="Мосфильм. Золотая коллекция" group-title="3  КИНО",Мосфильм. Золотая коллекция
+http://193.242.190.6:8099/98/index.m3u8
+#EXTINF:-1  tvg-name="Мосфильм. Золотая коллекция" group-title="3  КИНО",Мосфильм. Золотая коллекция HD
+http://live.admuspeh.my/8707/index.m3u8?token=test
+#EXTINF:-1  tvg-name="СОВЕТСКАЯ КИНОКЛАССИКА HD" group-title="3  КИНО",СОВЕТСКАЯ КИНОКЛАССИКА HD
+http://dmi3y-tv.ru/hls/CH_SOVKLASSIKAHD.m3u8
+#EXTINF:-1  tvg-name="Советское кино" group-title="3  КИНО",Советское кино
+http://158.101.194.132:8080/channel/n4ef90b2b/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1  tvg-name="Кино 1 International" group-title="3  КИНО",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1  tvg-name="Ностальгия" group-title="3  КИНО",Ностальгия
+http://91.205.199.3/nostalgia/index.m3u8
+#EXTINF:-1  tvg-name="Ностальгия" group-title="3  КИНО",Ностальгия
+http://31.148.48.15:80/Nostalgiya/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Ностальгия" group-title="3  КИНО",Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1  tvg-name="Ретро" group-title="3  КИНО",Ретро
+http://135.181.115.81:8000/play/a027/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Ретро" group-title="3  КИНО",Ретро
+https://wowza4.leisertv.com/live/retrotv.stream/playlist.m3u8
+#EXTINF:-1  tvg-name="Киноклассика" group-title="3  КИНО",Киноклассика
+http://158.101.194.132:8080/channel/7e5a40bb/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1  tvg-name="РОДНОЕ КИНО" tvg-logo="*" group-title="3  КИНО",РОДНОЕ КИНО
+http://213.226.137.140:81/tl/l54/mpegts
+#EXTINF:-1  tvg-name="РОДНОЕ КИНО" tvg-logo="*" group-title="3  КИНО",РОДНОЕ КИНО
+http://185.50.148.2:7711/RodnoeKino/index.m3u8
+#EXTINF:-1  tvg-name="Твое ТВ HD" group-title="3  КИНО",ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1  tvg-name="ТВОЕ ТВ - ЮМОР" group-title="3  КИНО",ТВОЕ ТВ - ЮМОР
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1  tvg-name="Смотрим ТВ 1:Честный детектив" group-title="3  КИНО",Смотрим ТВ 1:Честный детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="Смотрим ТВ 1:Честный детектив (HD)" group-title="3  КИНО",Смотрим ТВ 1:Честный детектив (HD)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  tvg-name="Смотрим Мелодрамы" tvg-logo="*" group-title="3  КИНО",Смотрим Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="Смотрим Мелодрамы HD" tvg-logo="*" group-title="3  КИНО",Смотрим Мелодрамы HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  tvg-name="Смотрим Кино и сериалы" group-title="3  КИНО",Смотрим Кино и сериалы
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1  tvg-name="Смотрим Кино и сериалы HD" group-title="3  КИНО",Смотрим Кино и сериалы HD
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1  tvg-name="Смотрим Тайны и следствие" tvg-logo="*" group-title="3  КИНО",Смотрим Тайны и следствие
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="Смотрим Тайны и следствие HD" tvg-logo="*" group-title="3  КИНО",Смотрим Тайны и следствие HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  tvg-name="KINO 24" group-title="3  КИНО",KINO 24
+http://sirius.greenhosting.ru/Kino24Ru/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Душевное" group-title="3  КИНО",Душевное HD
+http://193.242.190.6:8099/37/index.m3u8
+#EXTINF:-1  tvg-name="Наше HD" group-title="3  КИНО",Наше HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://77.235.1.17/nashe_krutoe/index.m3u8
+#EXTINF:-1  tvg-name="Наше Крутое HD" tvg-logo="*" group-title="3  КИНО",Наше Крутое HD
+http://fr01.spr24.net/123/mpegts?token=TwwAi5a4kpCAcB
+#EXTINF:-1  tvg-name="Наше любимое HD" tvg-logo="*" group-title="3  КИНО",Наше любимое
+http://99c385b6.amazzin.pw/iptv/K2LTLTY5Y7X65V/2106/index.m3u8
+#EXTINF:-1  tvg-name="Наше новое кино" group-title="3  КИНО",Наше новое кино
+http://178.212.71.253:8002/play/a00i/index.m3u8
+#EXTINF:-1  tvg-name="Наше новое кино" group-title="3  КИНО",Наше новое кино
+http://91.205.199.3/nashenovoekino/index.m3u8
+#EXTINF:-1  tvg-name="Наше новое кино" group-title="3  КИНО",Наше новое кино
+http://213.226.137.140:81/tl/l53/mpegts
+#EXTINF:-1  tvg-name="Наше Мужское HD" group-title="3  КИНО",Наше мужское HD
+http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Наше Мужское HD" group-title="3  КИНО",Наше мужское HD
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Наш Кинопоказ HD" group-title="3  КИНО",Наш Кинопоказ HD
+http://ott.server-iptv.live/666/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  tvg-name="Наш Кинопоказ HD" group-title="3  КИНО",Наш Кинопоказ HD
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Наш кинороман" tvg-logo="*" group-title="3  КИНО",Наш кинороман
+http://fr01.spr24.net/107/mpegts?token=TwwAi5a4kpCAcB
+#EXTINF:-1  tvg-name="Мужское кино" group-title="3  КИНО",Мужское Кино HD
+http://live.admuspeh.my/8070/index.m3u8?token=Tva25uspehTest
+#EXTINF:-1  tvg-name="Мужское кино" group-title="3  КИНО",Мужское кино
+http://213.226.137.140:81/tl/l111/mpegts
+#EXTINF:-1  tvg-name="Мужское кино" group-title="3  КИНО",Мужское кино
+http://stream01.vnet.am/MujskoeKino/index.m3u8
+#EXTINF:-1  tvg-name="Мужской" group-title="3  КИНО",Мужской
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1  tvg-name="Т24" group-title="3  КИНО",24 Техно
+http://178.163.16.7:4022/udp/234.0.0.247:2000
+#EXTINF:-1  tvg-name="Победа" group-title="3  КИНО",Победа
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.50.148.2:7707/Pobeda/index.m3u8
+#EXTINF:-1  tvg-name="Победа" group-title="3  КИНО",Победа
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://93.189.224.246:52900/play/a010/index.m3u8
+#EXTINF:-1  tvg-name="День Победы HD" group-title="3  КИНО",День Победы HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTINF:-1  tvg-name="Феникс плюс Кино" group-title="3  КИНО",Феникс+Кино
+http://31.210.208.171:8080/fenixkino/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="Дом кино" group-title="3  КИНО",Дом кино
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/DomKino/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Дом кино" group-title="3  КИНО",Дом кино
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://93.189.224.246:52900/play/a00z/index.m3u8
+#EXTINF:-1  tvg-name="Дом кино" group-title="3  КИНО",Дом кино
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://65.21.85.175:8000/play/a00m/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Дом кино Премиум HD" group-title="3  КИНО",Дом кино Премиум HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://213.226.137.140:81/tl/l75/index.m3u8
+#EXTINF:-1  tvg-name="Дом кино Премиум HD" group-title="3  КИНО",Дом кино Премиум HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream02.vnet.am/THT/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Дом кино Премиум HD" group-title="3  КИНО",Дом кино Премиум HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="Любимое" group-title="3  КИНО",Любимое HD
+http://live.admuspeh.my/8310/index.m3u8?token=Tva25uspehTest
+#EXTINF:-1  tvg-name="Любимое кино" group-title="3  КИНО",Любимое кино
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1  tvg-name="Любимое кино" group-title="3  КИНО",Любимое кино
+http://91.205.199.3/lubimoekino/index.m3u8
+#EXTINF:-1  tvg-name="Любимое кино" group-title="3  КИНО",Любимое кино
+http://86.57.198.251:8181/play/1031/index.m3u8
+#EXTINF:-1  tvg-name="Иллюзион +" group-title="3  КИНО",Иллюзион +
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=tva.in.ua
+#EXTINF:-1  tvg-name="Иллюзион +" group-title="3  КИНО",Иллюзион+ HD
+http://live.admuspeh.my/8134/index.m3u8?token=Tva25uspehTest
+#EXTINF:-1  tvg-name="Русский иллюзион" group-title="3  КИНО",Русский иллюзион
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1  tvg-name="Русский иллюзион" group-title="3  КИНО",Русский иллюзион
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Русский роман" group-title="3  КИНО",Русский роман HD
+http://65.21.85.175:8000/play/a00y/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Русский роман" group-title="3  КИНО",Русский роман
+http://stream01.vnet.am/RusskiyRoman/mono.m3u8
+#EXTINF:-1  tvg-name="Русский роман" group-title="3  КИНО",Русский роман
+http://193.242.190.6:8099/39/index.m3u8
+#EXTINF:-1  tvg-name="Русский бестселлер" group-title="3  КИНО",Русский бестселлер
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Русский бестселлер" group-title="3  КИНО",Русский бестселлер
+http://65.21.85.175:8000/play/a00z/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Русский детектив" group-title="3  КИНО",Русский детектив
+http://65.21.85.175:8000/play/a00x/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Русский детектив" group-title="3  КИНО",Русский детектив
+http://130.193.73.10:8937/play/a03o
+#EXTINF:-1  tvg-name="Романтичное HD" group-title="3  КИНО",Романтичное HD
+http://live.admuspeh.my/8948/index.m3u8?token=Tva25uspehTest
+#EXTINF:-1  tvg-name="FMC FHD" group-title="3  КИНО",FMC FHD
+http://195.9.195.3:8080/hls/187741.m3u8
+#EXTINF:-1  tvg-name="ПАМЯТЬ HD" group-title="3  КИНО",ПАМЯТЬ HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="УЖАСТИК HD" group-title="3  КИНО",УЖАСТИК HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="PROMO HD" group-title="3  КИНО",PROMO HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="Фильм HD" group-title="3  КИНО",Фильм HD
+http://45.159.74.14:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Фильм" group-title="3  КИНО",Фильм
+http://stream02.vnet.am/Kinoman/mono.m3u8
+#EXTINF:-1  tvg-name="MGM" group-title="3  КИНО",MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1  tvg-name="Видеокассета HD" group-title="3  КИНО",Видеокассета E-180
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1  tvg-name="Видеокассета HD" group-title="3  КИНО",ВИДЕОКАССЕТА
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1  tvg-name="Видеосалон VHS" group-title="3  КИНО",VHSка
+http://live.admuspeh.my/8962/index.m3u8?token=Njrty24ghjCnjNfr
+#EXTINF:-1  tvg-name="FAN HD" group-title="3  КИНО",FAN HD
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://77.235.1.17/fan/index.m3u8
+#EXTINF:-1  tvg-name="FAN HD" group-title="3  КИНО",FAN
+#EXTVLCOPT:http-user-agent=SmartSDK
+http://109.200.130.123:7537/play/a02a
+#EXTINF:-1  tvg-name="Cinema" group-title="3  КИНО",Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1  tvg-name="Cinema HD" group-title="3  КИНО",Cinema HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Star Cinema" group-title="3  КИНО",Star Cinema HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://ott.server-iptv.live/643/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  tvg-name="Star Cinema" group-title="3  КИНО",Star Cinema HD
+http://live.admuspeh.my/8935/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Star Cinema" group-title="3  КИНО",Star Cinema
+http://185.23.80.28:8080/StarCinema/index.m3u8?token=tva.in.ua
+#EXTINF:-1  tvg-name="Star Family" group-title="3  КИНО",Star Family HD
+http://live.admuspeh.my/8936/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Star Family" group-title="3  КИНО",Star Family
+http://185.23.80.28:8080/StarFamily/index.m3u8?token=tva.in.ua
+#EXTINF:-1  tvg-name="START Air" group-title="3  КИНО",START Air HD
+http://live.admuspeh.my/8398/index.m3u8?token=test
+#EXTINF:-1  tvg-name="START World" group-title="3  КИНО",START World HD
+http://live.admuspeh.my/8402/index.m3u8?token=test
+#EXTINF:-1  tvg-name="A1" group-title="3  КИНО",A1
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/A1/index.m3u8?token=test
+#EXTINF:-1  tvg-name="A1" group-title="3  КИНО",A1
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://178.57.121.38:8080/amedia/index.m3u8?token=test
+#EXTINF:-1  tvg-name="A1" group-title="3  КИНО",A1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://77.106.252.178:4022/udp/233.33.220.130:5050
+#EXTINF:-1  tvg-name="A2 HD" group-title="3  КИНО",A2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/A2/index.m3u8?token=test
+#EXTINF:-1  tvg-name="A2 HD" group-title="3  КИНО",A2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Zagorodniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="A2 HD" group-title="3  КИНО",A2 HD
+http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
+#EXTINF:-1  tvg-name="Amedia Hit HD" tvg-logo="https://i.imgur.com/Jtfq9xA.png" group-title="3  КИНО",Amedia Hit HD
+http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
+#EXTINF:-1  tvg-name="Amedia Hit HD" tvg-logo="https://i.imgur.com/Jtfq9xA.png" group-title="3  КИНО",Amedia Hit HD
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1  tvg-name="Amedia Premium HD" group-title="3  КИНО",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1  tvg-name="Amedia Premium HD" group-title="3  КИНО",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
+#EXTINF:-1  tvg-name="HD REX HD" group-title="3  КИНО",HD REX HD
+http://dmi3y-tv.ru/hls/CH_HDREXHD.m3u8
+#EXTINF:-1  tvg-name="Ultra HD Cinema 4K" group-title="3  КИНО",UltraHD Cinema 4K (DTS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 WINK/1.34.1 (AndroidTV/6.1.1) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1  tvg-name="Ultra HD Cinema 4K" group-title="3  КИНО",UltraHD Cinema 4K (DTS)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://a787201479-zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/video_1920x1080_avc1/playlist.m3u8?useseq=t&version=2
+#EXTINF:-1  tvg-name="Russian Extreme UHD (Архив)" group-title="3  КИНО",Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1  tvg-name="Блокбастер HD" group-title="3  КИНО",Блокбастер HD
+http://ott.server-iptv.live/668/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  tvg-name="Блокбастер HD" group-title="3  КИНО",Блокбастер HD
+http://live.admuspeh.my/8939/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:-1  tvg-name="Блокбастер HD" group-title="3  КИНО",Блокбастер HD
+http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+#EXTINF:-1  tvg-name="FilmBox" tvg-logo="*" group-title="3  КИНО",FilmBox
+http://130.193.73.10:8937/play/a03s 
+#EXTINF:-1  tvg-name="FilmBox HD Russia" tvg-logo="*" group-title="3  КИНО",FilmBox HD Russia
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1  tvg-name="Fox HD" group-title="3  КИНО",Fox
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1  tvg-name="Fox HD" group-title="3  КИНО",Fox
+http://dmi3y-tv.ru/hls/CH_FOX.m3u8
+#EXTINF:-1  tvg-name="Fox Life HD" group-title="3  КИНО",Fox Life
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+#EXTINF:-1  tvg-name="Сапфир" group-title="3  КИНО",Сапфир FHD (DTS)
+http://188.113.190.15/14/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Сарафан" group-title="3  КИНО",Сарафан
+http://86.57.178.105:10822
+#EXTINF:-1  tvg-name="Hollywood" group-title="3  КИНО",Hollywood
+http://109.200.130.123:7537/play/a02g
+#EXTINF:-1  tvg-name="Hollywood HD" group-title="3  КИНО",Hollywood HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/MGM_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Hollywood HD" group-title="3  КИНО",Hollywood HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://130.193.73.10:8937/play/a02k
+#EXTINF:-1  tvg-name="KINO LIVING HD" group-title="3  КИНО",KINO LIVING HD
+http://dmi3y-tv.ru/hls/CH_KINOLIVINGHD.m3u8
+#EXTINF:-1  tvg-name="ФАНТАСТИКА HD" group-title="3  КИНО",ФАНТАСТИКА HD
+http://195.9.195.3:8080/hls/187241.m3u8
+#EXTINF:-1  tvg-name="ФАНТАСТИКА HD" group-title="3  КИНО",IPTV ФАНТАСТИКА HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="IPTV Память" group-title="3  КИНО",IPTV Память
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="IPTV Ужастик" group-title="3  КИНО",IPTV Ужастик
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="IPTV" group-title="3  КИНО",IPTV
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="IPTV Мультсказки" group-title="3  КИНО",IPTV Мультсказки
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name=".sci-fi" group-title="3  КИНО",.sci-fi SD
+http://dmi3y-tv.ru/hls/CH_SCI-FI.m3u8
+#EXTINF:-1  tvg-name=".sci-fi" group-title="3  КИНО",.sci-fi SD
+http://130.193.73.10:8937/play/a02q
+#EXTINF:-1  tvg-name=".sci-fi" group-title="3  КИНО",.sci-fi HD
+http://stream01.vnet.am/Kinoseriya/mono.m3u8
+#EXTINF:-1  tvg-name="TV XXI" group-title="3  КИНО",TV XXI HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/tvxxi/index.m3u8
+#EXTINF:-1  tvg-name="TV XXI" group-title="3  КИНО",TV XXI HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVXXI/bw2000000/variant.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 HD" group-title="3  КИНО",Viju TV1000
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 HD" group-title="3  КИНО",Viju TV1000 HD
+http://185.50.148.2:7703/TV1000/index.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 HD" group-title="3  КИНО",Viju TV1000 HD
+http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Viju TV1000 Action HD" group-title="3  КИНО",Viju TV1000 Action
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 Action HD" group-title="3  КИНО",Viju TV1000 Action
+http://185.50.148.2:7703/TV1000Action/index.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 Action HD" group-title="3  КИНО",Viju TV1000 Action HD
+http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Viju TV1000 Action HD" group-title="3  КИНО",Viju TV1000 Action HD
+https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 Русское HD" group-title="3  КИНО",Viju TV1000 Русское
+http://185.50.148.2:7703/TV1000RusKino/index.m3u8
+#EXTINF:-1  tvg-name="Viju TV1000 Русское HD" group-title="3  КИНО",Viju TV1000 Русское HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1  tvg-name="viju TV1000 новелла" group-title="3  КИНО",viju TV1000 новелла HD
+http://158.101.214.187:8080/channel/n60cfbb4/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1  tvg-name="viju TV1000 новелла" group-title="3  КИНО",viju TV1000 новелла HD
+http://live.admuspeh.my/8973/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Viju+ Comedy HD" group-title="3  КИНО",Viju+ Comedy HD
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1  tvg-name="Viju+ Comedy HD" group-title="3  КИНО",Viju+ Comedy HD
+http://95.156.76.230:33001/udp/230.4.34.109:1234
+#EXTINF:-1  tvg-name="Viju+ Comedy HD" group-title="3  КИНО",Viju+ Comedy HD
+http://135.181.115.81:8000/play/a019/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Viju+ Megahit HD" group-title="3  КИНО",Viju+ Megahit HD
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+#EXTINF:-1  tvg-name="Viju+ Megahit HD" group-title="3  КИНО",Viju+ Megahit HD
+http://95.156.76.230:33001/udp/230.4.34.108:1234
+#EXTINF:-1  tvg-name="Viju+ Premiere HD" group-title="3  КИНО",Viju+ Premiere HD
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+#EXTINF:-1  tvg-name="Viju+ Premiere HD" group-title="3  КИНО",Viju+ Premiere HD
+http://135.181.115.81:8000/play/a01a/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Viju+ Serial HD" group-title="3  КИНО",Viju+ Serial HD
+http://77.235.1.17/vip_serial/index.m3u8
+#EXTINF:-1  tvg-name="Viju+ Serial HD" group-title="3  КИНО",Viju+ Serial HD
+http://185.223.125.136:1984/play/Disney/index.m3u8
+#EXTINF:-1  tvg-name="Еврокино" group-title="3  КИНО",Еврокино
+http://91.205.199.3/eurokino/index.m3u8
+#EXTINF:-1  tvg-name="Еврокино" group-title="3  КИНО",Еврокино
+http://86.57.198.251:8181/play/1022/index.m3u8
+#EXTINF:-1  tvg-name="Кино без границ HD" group-title="3  КИНО",Кино без границ HD
+http://185.50.148.2:7703/Detskiy/index.m3u8
+#EXTINF:-1  tvg-name="КиноСезон HD" group-title="3  КИНО",КиноСезон HD
+http://77.235.1.17/kinosezon/index.m3u8
+#EXTINF:-1  tvg-name="Кино ТВ HD" group-title="3  КИНО",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://193.242.190.6:8099/88/index.m3u8
+#EXTINF:-1  tvg-name="Кино ТВ HD" group-title="3  КИНО",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/kinotvhd/index.m3u8
+#EXTINF:-1  tvg-name="Кино ТВ HD" group-title="3  КИНО",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live.admuspeh.my/8207/index.m3u8?token=Sgir7vDiv8Rk9fKO
+#EXTINF:-1  tvg-name="Кино ТВ" group-title="3  КИНО",Кино ТВ
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1  tvg-name="Кино ТВ" group-title="3  КИНО",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Кино ТВ" group-title="3  КИНО",Кино ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1  tvg-name="Киноман" group-title="3  КИНО",Киноман HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Киноман" group-title="3  КИНО",Киноман HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://88.218.242.237:8000/play/a002
+#EXTINF:-1  tvg-name="Киносвидание" group-title="3  КИНО",Киносвидание HD
+https://flussonic.salomtv.uz/Kinosvidanie/video.m3u8
+#EXTINF:-1  tvg-name="Киносвидание" group-title="3  КИНО",Киносвидание
+http://91.205.199.3:80/kinosvidanie/index.m3u8
+#EXTINF:-1  tvg-name="Киносвидание" group-title="3  КИНО",Киносвидание
+http://185.50.148.2:7711/Kinosvidanie/index.m3u8
+#EXTINF:-1  tvg-name="Кинопоказ HD" group-title="3  КИНО",Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Кинопоказ HD" group-title="3  КИНО",Кинопоказ
+http://31.210.208.171:8080/kinopokaz/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="Кинопоказ HD" group-title="3  КИНО",Кинопоказ HD (DTS)
+http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Камеди" tvg-logo="*" group-title="3  КИНО",Камеди
+http://185.23.80.28:8080/Camedi/index.m3u8?token=tva.in.ua
+#EXTINF:-1  tvg-name="Комедия" group-title="3  КИНО",Комедия
+http://130.193.73.10:8937/play/a03k
+#EXTINF:-1  tvg-name="Кинокомедия" group-title="3  КИНО",Кинокомедия HD
+http://91.205.199.3:80/komedia/index.m3u8
+#EXTINF:-1  tvg-name="Кинокомедия" group-title="3  КИНО",Кинокомедия HD
+http://65.21.85.175:8000/play/a01g/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Кинокомедия" group-title="3  КИНО",Кинокомедия
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://213.226.137.140:81/tl/l52/mpegts
+#EXTINF:-1  tvg-name="Комедийное HD" group-title="3  КИНО",Комедийное HD
+http://135.181.115.81:8000/play/a00j/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Comedy Central" group-title="3  КИНО",Comedy Central
+http://193.242.204.28:10065/65
+#EXTINF:-1  tvg-name="Кинопремьера HD" group-title="3  КИНО",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1  tvg-name="Кинопремьера HD" group-title="3  КИНО",Кинопремьера HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/kinopremerahd/index.m3u8
+#EXTINF:-1  tvg-name="Киномикс HD" group-title="3  КИНО",Киномикс HD
+http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Киномикс HD" group-title="3  КИНО",Киномикс HD
+http://185.37.150.40:8092/kino_plus/playlist.m3u8
+#EXTINF:-1  tvg-name="Киномикс" group-title="3  КИНО",Киномикс
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.50.148.2:7711/Kinomiks/index.m3u8
+#EXTINF:-1  tvg-name="Киносемья" group-title="3  КИНО",Киносемья HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/kinosemyahd/index.m3u8
+#EXTINF:-1  tvg-name="Киносемья" group-title="3  КИНО",Киносемья HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://193.242.190.6:8099/85/index.m3u8
+#EXTINF:-1  tvg-name="Киносат" group-title="3  КИНО",Киносат
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
+#EXTINF:-1  tvg-name="КИНОСЕРИЯ HD" group-title="3  КИНО",Киносерия
+http://31.210.208.171:8080/kinoseriya/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="Сериал UHD 4K" tvg-logo="*" group-title="3  КИНО",Сериал 4k
+http://5.153.180.30:8000/play/a06e
+#EXTINF:-1  tvg-name="Кино UHD 4K" tvg-logo="*" group-title="3  КИНО",Кино 4k
+http://5.153.180.30:8000/play/a063
+#EXTINF:-1  tvg-name="Кинохит HD" group-title="3  КИНО",Кинохит HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/kinoxithd/index.m3u8
+#EXTINF:-1  tvg-name="Кинохит HD" group-title="3  КИНО",Кинохит HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://flussonic.salomtv.uz/Kinoxit/video.m3u8
+#EXTINF:-1  tvg-name="Кинохит" tvg-logo="*" group-title="3  КИНО",Кинохит
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.50.148.2:7711/Kinohit/index.m3u8
+#EXTINF:-1  tvg-name="Хит HD" tvg-logo="*" group-title="3  КИНО",Хит HD
+http://185.23.80.28:8080/Xit/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Хит HD" tvg-logo="*" group-title="3  КИНО",Хит HD
+http://158.101.194.132:8080/channel/n484decb9/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1  tvg-name="Хит HD" group-title="3  КИНО",Хит HD
+http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  tvg-name="Шокирующее HD" tvg-logo="*" group-title="3  КИНО",Шокирующее HD
+http://live.admuspeh.my/8322/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:-1  tvg-name="HORROR" group-title="3  КИНО",HORROR
+http://158.101.194.132:8080/channel/d178d72/index.m3u8?q=4965b2524bbd5b7c9cadb3719420c02c
+#EXTINF:-1  tvg-name="НСТ" group-title="3  КИНО",НСТ Страшное
+http://stream01.vnet.am/Channel_125/mono.m3u8
+#EXTINF:-1  tvg-name="НСТ" group-title="3  КИНО",НСТ Страшное
+http://live.admuspeh.my/8165/index.m3u8?token=Tva25uspehTest
+#EXTINF:-1  tvg-name="НСТ" group-title="3  КИНО",НСТ Страшное
+http://130.193.73.10:8937/play/a03c
+#EXTINF:-1  tvg-name="Страшное HD" group-title="3  КИНО",Страшное HD
+rtmp://5.182.229.90//7247
+#EXTINF:-1  tvg-name="Страшное HD" group-title="3  КИНО",Страшное HD
+http://158.101.194.132:8080/channel/42c15d29/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+#EXTINF:-1  tvg-name="Страшное HD" group-title="3  КИНО",Страшное HD
+http://live.admuspeh.my/8198/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Страх HD" group-title="3  КИНО",Страх HD
+http://195.9.195.3:8080/hls/202127.m3u8
+#EXTINF:-1  tvg-name="Кошмар" group-title="3  КИНО",Кошмар
+http://195.9.195.3:8080/hls/204709.m3u8
+#EXTINF:-1  tvg-name="Кошмар" group-title="3  КИНО",Кошмар
+http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:-1  tvg-name="Киноужас" group-title="3  КИНО",Киноужас
+http://109.200.130.123:7537/play/a021
+#EXTINF:-1  tvg-name="Киноужас" group-title="3  КИНО",Киноужас
+http://213.226.137.140:81/tl/l415/mpegts
+#EXTINF:-1  tvg-name="Киноужас HD" group-title="3  КИНО",Киноужас HD
+http://live.admuspeh.my/8357/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Scream" group-title="3  КИНО",Scream
+http://185.23.80.28:8080/Scream/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Кино 1 HD" tvg-logo="*" group-title="3  КИНО",Кино 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.233.215.250:7272/i0yRlKi4YlfGtF6
+#EXTINF:-1  tvg-name="Остросюжетное HD" group-title="3  КИНО",Остросюжетное HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.131.136.4:8001/play/e012
+#EXTINF:-1  tvg-name="Премиальное HD" tvg-logo="*" group-title="3  КИНО",Премиальное HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live.admuspeh.my/8028/index.m3u8?token=Fas-tvIp25tva
+#EXTINF:-1  tvg-name="Премиальное HD" group-title="3  КИНО",Премиальное HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+rtmp://5.182.229.90//7222
+#EXTINF:-1  tvg-name="BackusTV Original" tvg-logo="*" group-title="3  КИНО",BackusTV Original HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1  tvg-name="BackusTV Original" tvg-logo="*" group-title="3  КИНО",BackusTV Original HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://media-gateway-cache.nuum.ru/live/5354/index.m3u8
+#EXTINF:-1  tvg-name="BackusTV Original" tvg-logo="*" group-title="3  КИНО",BackusTV Original HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://woobl.ru/hls987/Backustv.m3u8
+#EXTINF:-1  tvg-name="BACKUSTV Страшное HD" tvg-logo="*" group-title="3  КИНО",BackusTV Страшное FHD (DTS)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1  tvg-name="BACKUSTV Страшное HD" tvg-logo="*" group-title="3  КИНО",BackusTV Страшное FHD (DTS)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://media-gateway-cache.nuum.ru/live/5443/index.m3u8
+#EXTINF:-1  tvg-name="BACKUSTV Страшное HD" tvg-logo="*" group-title="3  КИНО",BackusTV Страшное FHD (DTS)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://woobl.ru/hls987/Backustv_horror.m3u8
+#EXTINF:-1  tvg-name="SHOT TV" group-title="3  КИНО",SHOT TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="SHOT TV" group-title="3  КИНО",SHOT TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://109.200.130.123:7537/play/a02b
+#EXTINF:-1  tvg-name=".black" group-title="3  КИНО",.black
+http://185.50.148.2:7703/Sony_Turbo/index.m3u8
+#EXTINF:-1  tvg-name=".black" group-title="3  КИНО",.black HD
+http://109.200.130.123:7537/play/a02s
+#EXTINF:-1  tvg-name=".red" group-title="3  КИНО",.red
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name=".red" group-title="3  КИНО",.red HD
+http://178.124.152.238:8088/sony
+#EXTINF:-1  tvg-name=".red" group-title="3  КИНО",.red HD
+http://31.210.208.171:8080/set/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="Plan B HD" group-title="3  КИНО",Plan B HD
+http://88.85.172.243:7012/play/a028
+#EXTINF:-1  tvg-name="Plan B HD" group-title="3  КИНО",Plan B HD
+http://77.235.1.17/planb/index.m3u8
+#EXTINF:-1  tvg-name="KinoJam 1 HD" group-title="3  КИНО",KinoJam 1 HD
+http://193.242.204.28:10064/64
+#EXTINF:-1  tvg-name="KinoJam 1" tvg-logo="*" group-title="3  КИНО",Kinojam 1 HD
+rtmp://5.182.229.90//7260
+#EXTINF:-1  tvg-name="KinoJam 2 HD" tvg-logo="*" group-title="3  КИНО",KinoJam 2 HD
+http://99c385b6.amazzin.pw/iptv/K2LTLTY5Y7X65V/7261/index.m3u8
+#EXTINF:-1  tvg-name="KinoJam 2" tvg-logo="*" group-title="3  КИНО",KinoJam 2
+rtmp://5.182.229.90//7261
+#EXTINF:-1  tvg-name="Trash HD" group-title="3  КИНО",Trash HD
+http://live.admuspeh.my/8945/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Trash HD" group-title="3  КИНО",Trash
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+#EXTINF:-1  tvg-name="BCU PREMIERE" group-title="3  КИНО",BCU PREMIERE
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94907.m3u8
+#EXTINF:-1  tvg-name="BCU PREMIERE 1" group-title="3  КИНО",BCU PREMIERE 1
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94909.m3u8
+#EXTINF:-1  tvg-name="BCU PREMIERE 2" group-title="3  КИНО",BCU PREMIERE 2
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94908.m3u8
+#EXTINF:-1  tvg-name="BCU PREMIERE 3" group-title="3  КИНО",BCU PREMIERE 3
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94906.m3u8
+#EXTINF:-1  tvg-name="BCU ACTION" group-title="3  КИНО",BCU ACTION
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94898.m3u8
+#EXTINF:-1  tvg-name="BCU Christmas" group-title="3  КИНО",BCU Christmas
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94917.m3u8
+#EXTINF:-1  tvg-name="BCU CINEMA" group-title="3  КИНО",BCU CINEMA
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94900.m3u8
+#EXTINF:-1  tvg-name="BCU COMEDY" group-title="3  КИНО",BCU COMEDY
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94901.m3u8
+#EXTINF:-1  tvg-name="BCU VHS" group-title="3  КИНО",BCU VHS
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94914.m3u8
+#EXTINF:-1  tvg-name="BCU FANTASTIC" group-title="3  КИНО",BCU FANTASTIC
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94902.m3u8
+#EXTINF:-1  tvg-name="BCU KINORATING" group-title="3  КИНО",BCU KINORATING
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94904.m3u8
+#EXTINF:-1  tvg-name="BCU MARVEL" group-title="3  КИНО",BCU MARVEL
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94905.m3u8
+#EXTINF:-1  tvg-name="BCU REALITY" group-title="3  КИНО",BCU REALITY
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94910.m3u8
+#EXTINF:-1  tvg-name="BCU ROMANTICC" group-title="3  КИНО",BCU ROMANTICC
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94911.m3u8
+#EXTINF:-1  tvg-name="BCU HISTORY" group-title="3  КИНО",BCU HISTORY
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94912.m3u8
+#EXTINF:-1  tvg-name="BCU RUSSIAN" group-title="3  КИНО",BCU RUSSIAN
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94913.m3u8
+#EXTINF:-1  tvg-name="BCU RUSERIAL" group-title="3  КИНО",BCU RUSERIAL
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94915.m3u8
+#EXTINF:-1  tvg-name="BCU KIDS+" group-title="3  КИНО",BCU KIDS+
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/94918.m3u8
+#EXTINF:-1  tvg-name="МультСказки HD" group-title="4  Мультфильмы",МультСказки HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1  tvg-name="СоюзМультфильм" group-title="4  Мультфильмы",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1  tvg-name="МУЛЬТ И МУЗЫКА" group-title="4  Мультфильмы",МУЛЬТ И МУЗЫКА
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1  tvg-name="МУЛЬТ И МУЗЫКА" group-title="4  Мультфильмы",МУЛЬТ И МУЗЫКА
+http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
+#EXTINF:-1  tvg-name="КИНОМУЛЬТ" group-title="4  Мультфильмы",КИНОМУЛЬТ
+http://109.200.130.123:7537/play/a024
+#EXTINF:-1  tvg-name="Retro Cartoon" group-title="4  Мультфильмы",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1  tvg-name="Kids TV HD" group-title="4  Мультфильмы",Kids TV HD
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1  tvg-name="Детское Кино International" group-title="4  Мультфильмы",Детское Кино International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1  tvg-name="Детский мир" group-title="4  Мультфильмы",Детский мир
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1  tvg-name="Детский мир" group-title="4  Мультфильмы",Детский мир
+http://dmi3y-tv.ru/hls/CH_DETSKIY_MIR.m3u8
+#EXTINF:-1  tvg-name="Детский мир" group-title="4  Мультфильмы",Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1  tvg-name="Мультики и Сказки HD" group-title="4  Мультфильмы",Мультики и Сказки HD
+http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:-1  tvg-name="В гостях у сказки" group-title="4  Мультфильмы",В гостях у сказки
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://109.200.130.123:7537/play/a02m
+#EXTINF:-1  tvg-name="В гостях у сказки" group-title="4  Мультфильмы",В гостях у сказки (HD)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live.admuspeh.my/8133/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Ani" tvg-logo="https://picon.ml/ani.png" group-title="4  Мультфильмы",Ani
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1  tvg-name="Ani" tvg-logo="https://picon.ml/ani.png" group-title="4  Мультфильмы",Ani
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_ANI.m3u8
+#EXTINF:-1  tvg-name="Радость моя" group-title="4  Мультфильмы",Радость моя
+http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1  tvg-name="Fox Kids HD" group-title="4  Мультфильмы",Fox Kids HD
+https://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1  tvg-name="Капитан Фантастика" group-title="4  Мультфильмы",Капитан Фантастика HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Карусель" group-title="4  Мультфильмы",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1  tvg-name="Карусель" group-title="4  Мультфильмы",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://193.242.190.6:8099/8/index.m3u8
+#EXTINF:-1  tvg-name="Карусель" group-title="4  Мультфильмы",Карусель International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://cdn2.skygo.mn/live/disk1/Karusel/HLS-FTA/Karusel.m3u8
+#EXTINF:-1  tvg-name="Мама" tvg-logo="https://picon.ml/mama.png" group-title="4  Мультфильмы",Мама
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Mama/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Мама" tvg-logo="https://picon.ml/mama.png" group-title="4  Мультфильмы",Мама
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Mama/mono.m3u8
+#EXTINF:-1  tvg-name="Мама" tvg-logo="https://picon.ml/mama.png" group-title="4  Мультфильмы",Мама
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
+#EXTINF:-1  tvg-name="Мульт" group-title="4  Мультфильмы",Мульт HD
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1  tvg-name="Мульт" group-title="4  Мультфильмы",Мульт HD
+http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
+#EXTINF:-1  tvg-name="Мульт" group-title="4  Мультфильмы",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1  tvg-name="Мульт" group-title="4  Мультфильмы",Мульт
+http://31.148.48.15:80/Mult/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Мультиландия" group-title="4  Мультфильмы",Мультиландия HD
+http://93.189.224.246:52900/play/a00m/index.m3u8
+#EXTINF:-1  tvg-name="Мультиландия" group-title="4  Мультфильмы",Мультиландия HD
+http://185.50.148.2:7706/Multimania/index.m3u8
+#EXTINF:-1  tvg-name="МультиМузыка" tvg-logo="https://picon.ml/multimuzyka.png" group-title="4  Мультфильмы",МультиМузыка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1  tvg-name="О!" group-title="4  Мультфильмы",О!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://130.193.73.10:8937/play/a016
+#EXTINF:-1  tvg-name="Рыжий" group-title="4  Мультфильмы",Рыжий
+http://178.57.121.38:8080/ryzhiy/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Солнце" group-title="4  Мультфильмы",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1  tvg-name="Солнце" group-title="4  Мультфильмы",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
+#EXTINF:-1  tvg-name="Солнце" group-title="4  Мультфильмы",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1  tvg-name="СТС Kids HD" group-title="4  Мультфильмы",СТС Kids HD
+http://130.193.73.10:8937/play/a017
+#EXTINF:-1  tvg-name="СТС Kids HD" group-title="4  Мультфильмы",СТС Kids
+http://195.26.83.96:7006/play/a00z/index.m3u8
+#EXTINF:-1  tvg-name="TiJi" tvg-logo="https://picon.ml/tiji.png" group-title="4  Мультфильмы",TiJi
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1  tvg-name="JimJam" tvg-logo="*" group-title="4  Мультфильмы",JimJam
+http://193.111.244.35:8001/jimjam/index.m3u8
+#EXTINF:-1  tvg-name="Уникум" tvg-logo="https://picon.ml/unikum.png" group-title="4  Мультфильмы",Уникум
+http://31.148.48.15:80/Detskiy/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Уникум" tvg-logo="https://picon.ml/unikum.png" group-title="4  Мультфильмы",Уникум
+http://178.57.121.38:8080/detsky/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Gulli" group-title="4  Мультфильмы",Gulli
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://86.57.198.251:8181/play/1091/index.m3u8
+#EXTINF:-1  tvg-name="Nick Jr" tvg-logo="*" group-title="4  Мультфильмы",Nick Jr
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
+#EXTINF:-1  tvg-name="Nickelodeon HD" group-title="4  Мультфильмы",Nickelodeon HD
+http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Nickelodeon HD" group-title="4  Мультфильмы",Nickelodeon HD
+http://dmi3y-tv.ru/hls/CH_NICKELODEONHD.m3u8
+#EXTINF:-1  tvg-name="Nick Toons HD" group-title="4  Мультфильмы",Nick Toons HD
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1  tvg-name="Nick Toons HD" group-title="4  Мультфильмы",Nick Toons HD
+http://dmi3y-tv.ru/hls/CH_NICKTOONSHD.m3u8
+#EXTINF:-1  tvg-name="Cartoon Classics" group-title="4  Мультфильмы",Cartoon Classics
+http://178.163.88.106:4022/udp/234.0.0.238:2000
+#EXTINF:-1  tvg-name="Cartoon Network" group-title="4  Мультфильмы",Cartoon Network
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Cartoon Network" group-title="4  Мультфильмы",Cartoon Network
+http://dmi3y-tv.ru/hls/CH_CARTOONNETWORK.m3u8
+#EXTINF:-1  tvg-name="2x2" group-title="4  Мультфильмы",2x2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1  tvg-name="2x2" group-title="4  Мультфильмы",2x2 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1  tvg-name="Суббота" group-title="4  Мультфильмы",Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1  tvg-name="Суббота" group-title="4  Мультфильмы",Суббота HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/Super/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Смайлик ТВ" group-title="4  Мультфильмы",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1  tvg-name="Da Vinci Kids" tvg-logo="*" group-title="4  Мультфильмы",Da Vinci Kids
+http://92.242.110.52:9835/udp/238.1.8.45:1234
+#EXTINF:-1  tvg-name="1HD (HD)" group-title="5  Музыка",1HD (HD)
+http://31.210.208.171:8080/1hd/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="1HD (HD)" group-title="5  Музыка",1HD (HD)
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1  tvg-name="Europa Plus TV" group-title="5  Музыка",Europa Plus TV
+http://93.189.224.246:52900/play/a00r/index.m3u8
+#EXTINF:-1  tvg-name="Europa Plus TV HD" tvg-logo="*" group-title="5  Музыка",Europa Plus TV HD
+http://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1  tvg-name="RU.TV" group-title="5  Музыка",RUTV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1  tvg-name="RU.TV" tvg-logo="http://epg.it999.ru/img/2277.png" group-title="5  Музыка",RU.TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_RUTV.m3u8
+#EXTINF:-1  tvg-name="RU.TV HD" group-title="5  Музыка",RUTV HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1  tvg-name="RU.TV HD" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="5  Музыка",RU.TV HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
+#EXTINF:-1  tvg-name="Retro Music" group-title="5  Музыка",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  tvg-name="Музыка 1 International" group-title="5  Музыка",Музыка 1 International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1  tvg-name="Музыка 2 International" group-title="5  Музыка",Музыка 2 International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1  tvg-name="Музыка Кино International" group-title="5  Музыка",Музыка Кино International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://autopilot.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1  tvg-name="Первый Музыкальный HD" group-title="5  Музыка",Первый Музыкальный HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:2200
+#EXTINF:-1  tvg-name="Первый Музыкальный HD" group-title="5  Музыка",Первый музыкальный HD (Россия)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:2300
+#EXTINF:-1  tvg-name="Шансон-TB" group-title="5  Музыка",Шансон-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-name="Ля-минор" group-title="5  Музыка",Ля-минор
+rtmp://5.182.231.251//2043
+#EXTINF:-1  tvg-name="Ля-минор" tvg-logo="*" group-title="5  Музыка",Ля-минор
+http://31.210.208.171:8080/la_minor/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="Муз ТВ" group-title="5  Музыка",Муз ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1  tvg-name="MusicBoxRussia.ru" tvg-logo="*" group-title="5  Музыка",RUSSIAN MUSIC BOX HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_RUSSIAN_MUSICBOXHD.m3u8
+#EXTINF:-1  tvg-name="Russian MusicBox" tvg-logo="*" group-title="5  Музыка",RUSSIAN MUSIC BOX HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://94.230.128.105:8080/MUSIC/index.m3u8
+#EXTINF:-1  tvg-name="MusicBox Gold" tvg-logo="*" group-title="5  Музыка",MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1  tvg-name="Жар Птица" tvg-logo="*" group-title="5  Музыка",Жар Птица
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1  tvg-name="МузСоюз" tvg-logo="https://i.imgur.com/Puk1Bhx.png" group-title="5  Музыка",Муз союз (576p)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1  tvg-name="Радио - Шансон" tvg-logo="https://i.imgur.com/lbqM3K2.png" group-title="5  Музыка",Радио - Шансон
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1  tvg-name="Радио - Шансон" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png" group-title="5  Музыка",Радио - Шансон
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+#EXTINF:-1  tvg-name="Шансон-TB" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png" group-title="5  Музыка",Шансон-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Страна FM" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="5  Музыка",Страна FM
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1  tvg-name="Первый музыкальный" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="5  Музыка",Первый музыкальный
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1  tvg-name="Первый музыкальный" tvg-logo="https://i.imgur.com/rEo7nR1.png" group-title="5  Музыка",Первый музыкальный
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:2200
+#EXTINF:-1  tvg-name="ТНТ Music" tvg-logo="https://i.imgur.com/RenuH4S.png" group-title="5  Музыка",ТНТ Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_TNT_MUSICHD.m3u8
+#EXTINF:-1  tvg-name="ТНТ Music" tvg-logo="https://epg.iptvx.one/icn/shanson-tv.png" group-title="5  Музыка",ТНТ Музыка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
+#EXTINF:-1  tvg-name="Первый Музыкальный BY HD" tvg-logo="https://online-red.com/images/tv/one-hd.png" group-title="5  Музыка",Первый Музыкальный BY HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:1300
+#EXTINF:-1  tvg-name="Первый Музыкальный BY" tvg-logo="https://online-red.com/images/tv/one-hd.png" group-title="5  Музыка",Первый Музыкальный BY
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:1200
+#EXTINF:-1  tvg-name="Первый Музыкальный RU HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="5  Музыка",Первый Музыкальный RU HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:2300
+#EXTINF:-1  tvg-name="Первый Музыкальный RU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Cy3fsuLzaorl2j4CbpaREwtomc_sd6DlMg&usqp=CAU" group-title="5  Музыка",Первый Музыкальный RU
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:2200
+#EXTINF:-1  tvg-name="1MUS" group-title="5  Музыка",1MUS
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rtmp.one.by:1300
+#EXTINF:-1  tvg-name="Best of Dance TV" tvg-logo="*" group-title="5  Музыка",Best of Dance TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1  tvg-name="Deep House District" tvg-logo="*" group-title="5  Музыка",Deep House District
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1  tvg-name="Kronehit HD" group-title="5  Музыка",Kronehit HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1  tvg-name="Kronehit TV" tvg-logo="*" group-title="5  Музыка",Kronehit TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1  tvg-name="MTV" group-title="5  Музыка",MTV
+rtmp://5.182.231.251//2130
+#EXTINF:-1  tvg-name="MTV" group-title="5  Музыка",MTV
+http://stream01.vnet.am/Channel_117/mono.m3u8
+#EXTINF:-1  tvg-name="MTV 00s" tvg-logo="*" group-title="5  Музыка",MTV 00s
+http://170.82.37.21:8000/play/a01x/index.m3u8
+#EXTINF:-1  tvg-name="MTV 80s" tvg-logo="*" group-title="5  Музыка",MTV 80s
+http://213.226.137.140:81/tl/l108/mpegts
+#EXTINF:-1  tvg-name="MTV 90s" tvg-logo="*" group-title="5  Музыка",MTV 90s
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="MTV Hits" tvg-logo="*" group-title="5  Музыка",MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="MTV Biggest Pop HD" tvg-logo="*" group-title="5  Музыка",MTV Biggest Pop HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1  tvg-name="Music Reload TV HD" group-title="5  Музыка",Music Reload TV HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1  tvg-name="Reload Radio Music Power HD" group-title="5  Музыка",Reload Radio Music Power HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1  tvg-name="POP STAR" group-title="5  Музыка",POP STAR
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1  tvg-name="Radio Iglesias" group-title="5  Музыка",Radio Iglesias
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1  tvg-name="Sonus FM" group-title="5  Музыка",Sonus FM
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1  tvg-name="V2 Beat HD" group-title="5  Музыка",V2 Beat HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1  tvg-name="VIVA Russia" tvg-logo="*" group-title="5  Музыка",Viva Russia HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1  tvg-name="Xite HD DE" group-title="5  Музыка",Xite HD DE
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Bridge TV" group-title="5  Музыка",BRIDGE TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1  tvg-name="Bridge TV Fresh" tvg-logo="*" group-title="5  Музыка",Bridge TV Fresh
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1  tvg-name="BRIDGE DELUXE HD" tvg-logo="*" group-title="5  Музыка",BRIDGE DELUXE HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://213.226.137.140:81/tl/l322/index.m3u8
+#EXTINF:-1  tvg-name="BRIDGE РУССКИЙ ХИТ" group-title="5  Музыка",BRIDGE РУССКИЙ ХИТ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Channel_115/mono.m3u8
+#EXTINF:-1  tvg-name="BRIDGE РУССКИЙ ХИТ" tvg-logo="*" group-title="5  Музыка",BRIDGE РУССКИЙ ХИТ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
+#EXTINF:-1  tvg-name="BRIDGE HITS" group-title="5  Музыка",BRIDGE HITS
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstvya.m3u8
+#EXTINF:-1  tvg-name="BRIDGE HITS" group-title="5  Музыка",BRIDGE HITS
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
+#EXTINF:-1  tvg-name="BRIDGE CLASSIC" group-title="5  Музыка",BRIDGE CLASSIC
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="BRIDGE CLASSIC" group-title="5  Музыка",BRIDGE CLASSIC
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_BRIDGETV_CLASSIC.m3u8
+#EXTINF:-1  tvg-name="BRIDGE ШЛЯГЕР" tvg-logo="*" group-title="5  Музыка",BRIDGE ШЛЯГЕР
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Now 70's" group-title="5  Музыка",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Now 80's" group-title="5  Музыка",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Now 90's" group-title="5  Музыка",Now 90's
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Viva" tvg-logo="*" group-title="5  Музыка",Viva
+rtmp://5.182.231.251//2156
+#EXTINF:-1  tvg-name="Матч! СТРАНА" tvg-logo="*" group-title="6  Спорт",Матч! СТРАНА
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://193.201.98.10:5000/c106
+#EXTINF:-1  tvg-name="Матч! СТРАНА HD720" tvg-logo="*" group-title="6  Спорт",Матч! СТРАНА HD720
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1  tvg-name="Матч! ПРЕМЬЕР" group-title="6  Спорт",Матч! ПРЕМЬЕР
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/103/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Матч! ПРЕМЬЕР HD" tvg-logo="*" group-title="6  Спорт",Матч! ПРЕМЬЕР HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.2.3:1234
+#EXTINF:-1  tvg-name="Матч! ФУТБОЛ 1" group-title="6  Спорт",Матч! ФУТБОЛ 1
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+#EXTINF:-1  tvg-name="Матч! ФУТБОЛ 1 HD" group-title="6  Спорт",Матч! ФУТБОЛ 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1  tvg-name="Матч! ФУТБОЛ 2" group-title="6  Спорт",Матч! ФУТБОЛ 2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://194.26.229.213/matc-futbol-2/index.m3u8?token=Panda
+#EXTINF:-1  tvg-name="Матч! ФУТБОЛ 2 HD" tvg-logo="*" group-title="6  Спорт",Матч! ФУТБОЛ 2 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.93.46.27:8887/8237/video.m3u8
+#EXTINF:-1  tvg-name="Матч! ФУТБОЛ 3" group-title="6  Спорт",Матч! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.57.68.33/110/mpegts
+#EXTINF:-1  tvg-name="Матч! ФУТБОЛ 3 HD" tvg-logo="*" group-title="6  Спорт",Матч! ФУТБОЛ 3 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+rtmp://92.119.88.58//2408
+#EXTINF:-1  tvg-name="Матч! АРЕНА" group-title="6  Спорт",Матч! АРЕНА
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1  tvg-name="Матч! АРЕНА HD" group-title="6  Спорт",Матч! АРЕНА HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1  tvg-name="Матч! Планета" group-title="6  Спорт",Матч! ПЛАНЕТА
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1  tvg-name="Матч! Игра HD" group-title="6  Спорт",Матч! Игра HD
+http://213.226.137.140:81/tl/l304/mpegts
+#EXTINF:-1  tvg-name="Матч Арена" group-title="6  Спорт",Матч Арена
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1  tvg-name="Матч HD" tvg-logo="*" group-title="6  Спорт",Матч HD
+https://livetv.mylifeisgood.net.ru/channels/match.m3u8
+#EXTINF:-1  tvg-name="Матч! ТВ" group-title="6  Спорт",Матч! ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1  tvg-name="Матч ТВ" group-title="6  Спорт",Матч ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1  tvg-name="Старт HD" tvg-logo="*" group-title="6  Спорт",Старт HD
+https://livetv.mylifeisgood.net.ru/channels/starthd.m3u8
+#EXTINF:-1  tvg-name="Игра HD" tvg-logo="*" group-title="6  Спорт",Игра HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://194.28.152.41:81/udp/225.0.56.61:1234
+#EXTINF:-1  tvg-name="Russian Extreme Ultra HD" group-title="6  Спорт",Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1  tvg-name="KHL" group-title="6  Спорт",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1  tvg-name="KHL Prime HD" group-title="6  Спорт",KHL Prime HD
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1  tvg-name="Хоккейный HD" tvg-logo="*" group-title="6  Спорт",Хоккейный HD
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk
+#EXTINF:-1  tvg-name="Матч! Игра" tvg-logo="*" group-title="6  Спорт",Матч! Игра
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://federaltv-migra.cdnvideo.ru/migra/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Матч ТВ" group-title="6  Спорт",Матч ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1  tvg-name="Матч! Боец" group-title="6  Спорт",Матч! Боец
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.2.7:1234
+#EXTINF:-1  tvg-name="Viasat Sport" group-title="6  Спорт",Viasat Sport
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1  tvg-name="Мир Баскетбола" group-title="6  Спорт",Мир Баскетбола
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.1.17:1234
+#EXTINF:-1  tvg-name="Моторспорт ТВ" tvg-logo="*" group-title="6  Спорт",Моторспорт ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hez1-flu.iptvstream.site/146/tracks-v1a1/mono.m3u8?token=295464%2C%2C%2C0415403780
+#EXTINF:-1  tvg-name="Бокс ТВ HD" group-title="6  Спорт",Бокс ТВ HD
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1  tvg-name="Бокс ТВ" group-title="6  Спорт",Бокс ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://213.226.137.140:81/tl/l104/mpegts
+#EXTINF:-1  tvg-name="Удар" group-title="6  Спорт",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1  tvg-name="Футбол" group-title="6  Спорт",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1  tvg-name="MMA-TV" tvg-logo="*" group-title="6  Спорт",MMA-TV
+http://91.196.37.133:4000/play/a02r
+#EXTINF:-1  tvg-name="Русский Экстрим" tvg-logo="*" group-title="6  Спорт",Русский Экстрим
+#EXTVLCOPT:http-user-agent=Peers.TV/7.8.16 Android/12 phone/vivo vivo.V2061/atoll.2061.arm64-v8a
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1  tvg-name="Russian Extreme UHD (Архив)" group-title="6  Спорт",Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
