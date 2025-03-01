@@ -3,6 +3,8 @@
 
 main.m3u    – Все плэйлисты, перечисленные ниже, объединенные в одом плейлист
 
+https://j0hnnik.github.io/iptv_hm/main.m3u
+
 rus.m3u      – Эфирные каналы
 
 film.m3u    – Фильмы
