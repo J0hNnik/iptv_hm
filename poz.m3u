@@ -1,0 +1,233 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1  tvg-name="Авто 24" group-title="ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream2.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Авто Плюс" group-title="ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Avto_Plus/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Авто Плюс" group-title="ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/83/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Драйв" group-title="ПОЗНАВАТЕЛЬНЫЕ",Драйв
+http://185.23.80.28:8080/Draiv/index.m3u8?token=tva.in.ua
+#EXTINF:-1  tvg-name="Здоровое ТВ" group-title="ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
+https://stream1.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Доктор" group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
+http://88.85.172.243:7004/play/a01l
+#EXTINF:-1  tvg-name="Моя планета" group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD
+http://95.156.76.230:33001/udp/230.4.34.36:1234
+#EXTINF:-1  tvg-name="Моя планета" group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD
+http://stream2.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Моя планета" group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Планета HD
+http://dmi3y-tv.ru/hls/CH_MOYAPLANETAHD.m3u8
+#EXTINF:-1  tvg-name="Моя Стихия" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя Стихия
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+rtmp://5.182.229.90//7349
+#EXTINF:-1  tvg-name="Моя стихия HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя стихия HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://130.193.73.10:8937/play/a02f
+#EXTINF:-1  tvg-name="Наука HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://stream2.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Нано ТВ HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Нано ТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/NanoTV/index.m3u8
+#EXTINF:-1  tvg-name="Неизвестная россия HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Неизвестная россия HD
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="Discovery Science HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Science HD
+http://185.246.66.143:8000/channel/701884a8/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
+#EXTINF:-1  tvg-name="Discovery Science HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Science HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://81.177.136.209:8004/playlist.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://45.159.74.14/DiscoveryChannel/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-name="Discovery Channel HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel HD
+http://dmi3y-tv.ru/hls/CH_DISCOVERYCHANNELHD.m3u8
+#EXTINF:-1  tvg-name="Investigation Discovery HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Investigation Discovery HD
+http://83.234.207.29:8008/play/a01a/index.m3u8
+#EXTINF:-1  tvg-name="Глазами Туриста 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста 4K
+https://stream1.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Т24" group-title="ПОЗНАВАТЕЛЬНЫЕ",Техно 24
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.224.169.250:5000/c15
+#EXTINF:-1  tvg-name="Мужской" group-title="ПОЗНАВАТЕЛЬНЫЕ",MУЖСКОЙ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.196.37.133:4000/play/a02l
+#EXTINF:-1  tvg-name="Мужской" group-title="ПОЗНАВАТЕЛЬНЫЕ",MУЖСКОЙ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7007/play/11/index.m3u8
+#EXTINF:-1  tvg-name="Диалоги о рыбалке HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Диалоги о рыбалке HD
+rtmp://92.119.88.58//2394
+#EXTINF:-1  tvg-name="Диалоги о рыбалке HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Диалоги о рыбалке HD
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+#EXTINF:-1  tvg-name="Дикий" group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикий
+http://95.156.76.230:33001/udp/230.4.34.78:1234
+#EXTINF:-1  tvg-name="Дикая охота HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая охота HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1  tvg-name="Дикая рыбалка HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1  tvg-name="Дикая рыбалка HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://88.85.172.243:7012/play/a026
+#EXTINF:-1  tvg-name="Охотник и рыболов" group-title="ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Рыбалка и охота" group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыбалка и охота
+http://86.57.178.105:9952/oh
+#EXTINF:-1  tvg-name="Охота и Рыбалка" group-title="ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream2.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Охота и Рыбалка" group-title="ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/69/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Рыболов HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыболов
+http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Телепутешествия" group-title="ПОЗНАВАТЕЛЬНЫЕ",Телепутешествия
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Домашние Животные" group-title="ПОЗНАВАТЕЛЬНЫЕ",Домашние Животные
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.224.169.250:5000/c38
+#EXTINF:-1  tvg-name="Домашние Животные" group-title="ПОЗНАВАТЕЛЬНЫЕ",Домашние Животные
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://flu.ttk.mx:90/domashnie_zhivotnye/mono.m3u8?token=hs06e
+#EXTINF:-1  tvg-name="Animal Planet" group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1  tvg-name="Animal Planet" group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_ANIMALPLANETHD.m3u8
+#EXTINF:-1  tvg-name="Animal Planet" group-title="ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/06abc038d8d3467acfaa5a154c9a8c95863f3ca86d5677a9a9caa9d381e3d7f3.m3u8
+#EXTINF:-1  tvg-name="Оружие" group-title="ПОЗНАВАТЕЛЬНЫЕ",Оружие
+https://livetv.mylifeisgood.net.ru/channels/wois.m3u8
+#EXTINF:-1  tvg-name="Арсенал HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Арсенал HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
+#EXTINF:-1  tvg-name="Арсенал HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Арсенал HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
+#EXTINF:-1  tvg-name="Galaxy" group-title="ПОЗНАВАТЕЛЬНЫЕ",Galaxy HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1  tvg-name="Galaxy" group-title="ПОЗНАВАТЕЛЬНЫЕ",Galaxy HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://iptv.mega.net.ru:8888/Galaxy_TV/mono.m3u8
+#EXTINF:-1  tvg-name="Первый Космический HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый Космический HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1  tvg-name="Приключения HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Приключения HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/fe29856d7da45bdb1d03deff8b9b3214.m3u8
+#EXTINF:-1  tvg-name="History HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",History
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://sc.id-tv.kz/HistoryHD.m3u8
+#EXTINF:-1  tvg-name="History2 HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",History2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1  tvg-name="History2 HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",History2 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.246.66.143:8000/channel/n7889f84a/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
+#EXTINF:-1  tvg-name="Nasa TV" group-title="ПОЗНАВАТЕЛЬНЫЕ",Nasa TV
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1  tvg-name="NASA 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",NASA 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1  tvg-name="Nat Geo Wild HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Nat Geo Wild HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1  tvg-name="National Geographic" group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="National Geographic" group-title="ПОЗНАВАТЕЛЬНЫЕ",National Geographic HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://135.181.115.81:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1  tvg-name="Travel+Adventure" group-title="ПОЗНАВАТЕЛЬНЫЕ",Trave l + Adventure
+http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Viju Explore HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Explore
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1  tvg-name="Viju Explore HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Explore HD
+http://185.50.148.2:7703/ViasatExplorer/index.m3u8
+#EXTINF:-1  tvg-name="Viju History HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju History HD
+https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
+#EXTINF:-1  tvg-name="Viju Nature HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Nature
+http://195.26.83.96:7013/play/37/index.m3u8
+#EXTINF:-1  tvg-name="Viju Nature HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Nature
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
+#EXTINF:-1  tvg-name="Viju+ Planet" group-title="ПОЗНАВАТЕЛЬНЫЕ",Viju Planet HD
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1  tvg-name="ZooПарк" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",ZooПарк
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Зоо ТВ" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="ПОЗНАВАТЕЛЬНЫЕ",Зоо ТВ
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1  tvg-name="В мире животных HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD
+https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Поехали!" group-title="ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Poehali/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Поехали!" group-title="ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+#EXTINF:-1  tvg-name="Усадьба" group-title="ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.224.169.250:5000/c35
+#EXTINF:-1  tvg-name="Загородная жизнь" group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь
+http://193.242.204.28:10180/180
+#EXTINF:-1  tvg-name="Загородный" group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный
+http://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1  tvg-name="Загородный int HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный int HD
+http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1  tvg-name="Бобёр" group-title="ПОЗНАВАТЕЛЬНЫЕ",Бобёр
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
+#EXTINF:-1  tvg-name="Бобёр" group-title="ПОЗНАВАТЕЛЬНЫЕ",Бобёр
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1  tvg-name="Психология 21" group-title="ПОЗНАВАТЕЛЬНЫЕ",Психология
+http://dmi3y-tv.ru/hls/CH_PSIHOLOGIYA.m3u8
+#EXTINF:-1  tvg-name="Совершенно секретно" group-title="ПОЗНАВАТЕЛЬНЫЕ",Совершенно секретно
+https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
+#EXTINF:-1  tvg-name="Совершенно секретно" group-title="ПОЗНАВАТЕЛЬНЫЕ",Совершенно секретно
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.205.199.3/sovershennosekretno/index.m3u8
+#EXTINF:-1  tvg-name="Живая планета" group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+http://91.224.169.250:5000/c7
+#EXTINF:-1  tvg-name="Живая природа HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа
+http://95.156.76.230:33001/udp/230.4.34.25:1234
+#EXTINF:-1  tvg-name="Живая природа HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа HD
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1  tvg-name="Love Nature 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",Love Nature 4K eng
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1  tvg-name="Наша Сибирь 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",Наша Сибирь HD
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1  tvg-name="Наша Сибирь 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",Наша Сибирь 4K
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
+#EXTINF:-1  tvg-name="HOME 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",HOME 4K
+https://livetv.mylifeisgood.net.ru/channels/0fcf4d9882d7bde663310c9820c74381.m3u8
+#EXTINF:-1  tvg-name="World HD" group-title="ПОЗНАВАТЕЛЬНЫЕ",World HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="QUADRO 4K" group-title="ПОЗНАВАТЕЛЬНЫЕ",QUADRO 4K
+https://livetv.mylifeisgood.net.ru/channels/dd3f71bc102eed2448b1efec8696cf22.m3u8
+#EXTINF:-1  tvg-name="Terra" group-title="ПОЗНАВАТЕЛЬНЫЕ",TERRA HD
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1  tvg-name="Terra" group-title="ПОЗНАВАТЕЛЬНЫЕ",TERRA HD
+http://130.193.73.10:8937/play/a01g
+#EXTINF:-1  tvg-name="365 дней ТВ" group-title="ПОЗНАВАТЕЛЬНЫЕ",365 дней ТВ
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="English Class" group-title="ПОЗНАВАТЕЛЬНЫЕ",English Class
+https://stream2.cinerama.uz/1442/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="English Club TV" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",English Club TV
+http://otv.wotom.net:4433/udp/238.1.1.109:1234
+#EXTINF:-1  tvg-name="Министерство идей HD" tvg-logo="*" group-title="ПОЗНАВАТЕЛЬНЫЕ",Министерство идей HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8

@@ -1,0 +1,104 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-name="Матч! СТРАНА"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! СТРАНА
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://193.201.98.10:5000/c106
+#EXTINF:-1 tvg-name="Матч! СТРАНА HD720"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! СТРАНА HD720
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Матч! ПРЕМЬЕР"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ПРЕМЬЕР
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/103/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Матч! ПРЕМЬЕР HD"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ПРЕМЬЕР HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.2.3:1234
+#EXTINF:-1 tvg-name="Матч! ФУТБОЛ 1"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ФУТБОЛ 1
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+#EXTINF:-1 tvg-name="Матч! ФУТБОЛ 1 HD"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ФУТБОЛ 1 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:-1 tvg-name="Матч! ФУТБОЛ 2"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ФУТБОЛ 2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/176/video.m3u8
+#EXTINF:-1 tvg-name="Матч! ФУТБОЛ 2 HD"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ФУТБОЛ 2 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.93.46.27:8887/8237/video.m3u8
+#EXTINF:-1 tvg-name="Матч! ФУТБОЛ 3"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ФУТБОЛ 3
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 tvg-name="Матч! ФУТБОЛ 3 HD"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ФУТБОЛ 3 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.2.6:1234
+#EXTINF:-1 tvg-name="Матч! АРЕНА"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! АРЕНА
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-name="Матч! АРЕНА HD"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! АРЕНА HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/325/video.m3u8
+#EXTINF:-1 tvg-name="Матч! Планета"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ПЛАНЕТА
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра HD"tvg-logo=""group-title="Спорт":http-user-agent="",Матч! Игра HD
+http://188.113.190.15/326/video.m3u8
+#EXTINF:-1 tvg-name="Матч Арена"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч Арена
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 tvg-name="Матч HD"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://tv.streams.baikal-telecom.net/MatchHD/index.m3u8
+#EXTINF:-1 tvg-name="Матч! ТВ"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-name="Старт HD"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Старт HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 tvg-name="Игра HD"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Игра HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://194.28.152.41:81/udp/225.0.56.61:1234
+#EXTINF:-1 tvg-name="Russian Extreme Ultra HD"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Russian Extreme Ultra HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
+#EXTINF:-1 tvg-name="KHL"tvg-logo=""group-title="Спорт":http-user-agent="",KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 tvg-name="KHL HD"tvg-logo="*"group-title="Спорт":http-user-agent="",KHL HD
+http://bl.uma.media/live/148307/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-name="KHL Prime HD"tvg-logo=""group-title="Спорт":http-user-agent="",KHL Prime HD
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
+#EXTINF:-1 tvg-name="Хоккейный HD"tvg-logo="*"group-title="Спорт":http-user-agent="",Хоккейный HD
+https://stream-msk-03.ott.tricolor.tv:443/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0ODAyNTUwMTg5MTQ4NSIsImV4cCI6MTcwMjg0NDU2MCwiaHdpZCI6IjQ1OWQ2OGRkYjYxN2I0NjExYWYzZTMwZWU3ZDVkY2RmNTExOGY5N2MwYzMxYzk1MTNhYTY1ZDMxODAxZDc2ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzAyMjM5NzYwLCJzZXNzaW9uX2lkIjoiMGI5NzZlZTJkN2I2NzgzZDdhYWI3MGYxZDZjYjcxMjQiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.RuPaMlsEL0m1Sy4-JgihC1uUnNVtAuf0zV8HjytUJKk
+#EXTINF:-1 tvg-name="Матч! Игра"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! Игра
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://federaltv-migra.cdnvideo.ru/migra/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Матч! Боец
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.2.7:1234
+#EXTINF:-1 tvg-name="Viasat Sport"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Viasat Sport
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир Баскетбола"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Мир Баскетбола
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://92.242.110.52:9835/udp/238.1.1.17:1234
+#EXTINF:-1 tvg-name="Моторспорт ТВ"tvg-logo="*"group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Моторспорт ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hez1-flu.iptvstream.site/146/tracks-v1a1/mono.m3u8?token=295464%2C%2C%2C0415403780
+#EXTINF:-1 tvg-name="Бокс ТВ"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Бокс ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 tvg-name="Удар"tvg-logo=""group-title="Спорт":http-user-agent="",Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 tvg-name="Футбол"tvg-logo=""group-title="Спорт":http-user-agent="",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 tvg-name="MMA-TV"tvg-logo="*"group-title="Спорт":http-user-agent="",MMA-TV
+http://91.196.37.133:4000/play/a02r
+#EXTINF:-1 tvg-name="Русский Экстрим"tvg-logo="*"group-title="Спорт":http-user-agent="Peers.TV/7.8.16 Android/12 phone/vivo vivo.V2061/atoll.2061.arm64-v8a",Русский Экстрим
+#EXTVLCOPT:http-user-agent=Peers.TV/7.8.16 Android/12 phone/vivo vivo.V2061/atoll.2061.arm64-v8a
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1 tvg-name="Russian Extreme UHD (Архив)"tvg-logo=""group-title="Спорт":http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",Russian Extreme UHD (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8

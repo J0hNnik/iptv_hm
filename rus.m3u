@@ -1,0 +1,227 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1  tvg-name="Первый HD" group-title="Эфирные",Первый HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  tvg-name="Первый канал" group-title="Эфирные",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1  tvg-name="Россия 1" group-title="Эфирные",Россия 1
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1  tvg-name="Россия 1" group-title="Эфирные",Россия 1 (Омск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia1-sd/index.m3u8
+#EXTINF:-1  tvg-name="Россия 1" group-title="Эфирные",Россия 1 (ОМСК)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:-1  tvg-name="Россия 1 HD" group-title="Эфирные",Россия 1 HD
+http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="Россия 1 HD" group-title="Эфирные",Россия 1 HD
+https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:-1  tvg-name="Россия 1 HD" group-title="Эфирные",Россия 1 HD
+http://91.224.169.250:5000/c68
+#EXTINF:-1  tvg-name="Россия 24" group-title="Эфирные",Россия 24 (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/omsk/russia24-sd/index.m3u8
+#EXTINF:-1  tvg-name="Россия 24" group-title="Эфирные",Россия 24 HD
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1  tvg-name="Россия 24" group-title="Эфирные",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8?version=3#parser
+#EXTINF:-1  tvg-name="RTД" group-title="Эфирные",RTД HD
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1  tvg-name="RTД" group-title="Эфирные",RTД HD
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1  tvg-name="RT" group-title="Эфирные",RT HD
+http://cdn-01.bonus-tv.ru/RussiaToday/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Известия" group-title="Эфирные",Известия HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1  tvg-name="Звезда HD" group-title="Эфирные",Звезда HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1  tvg-name="Звезда HD" group-title="Эфирные",Звезда HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1  tvg-name="Звезда HD" group-title="Эфирные",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
+#EXTINF:-1  tvg-name="Звезда" group-title="Эфирные",Звезда
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1  tvg-name="История" group-title="Эфирные",История
+http://31.148.48.15:80/Istoriya/index.m3u8?token=test
+#EXTINF:-1  tvg-name="История" group-title="Эфирные",История
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1  tvg-name="История" group-title="Эфирные",История
+http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
+#EXTINF:-1  tvg-name="Неизвестная Россия (HD)" group-title="Эфирные",Неизвестная Россия (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
+http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1  tvg-name="360 HD" group-title="Эфирные",360 HD
+#EXTVLCOPT:http-user-agent=devcm-DBC8713BF34D7AC60A35042F2A61A19318B870BF
+https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
+#EXTINF:-1  tvg-name="360 HD" group-title="Эфирные",360 HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  tvg-name="РБК" group-title="Эфирные",РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1  tvg-name="РБК" group-title="Эфирные",РБК
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1  tvg-name="Рен ТВ" group-title="Эфирные",Рен ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1  tvg-name="Рен ТВ" group-title="Эфирные",Рен ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://93.189.224.246:52900/play/a00v/index.m3u8
+#EXTINF:-1  tvg-name="Рен ТВ HD" group-title="Эфирные",РЕН ТВ HD
+http://185.23.80.28:8080/REN_HD/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Рен ТВ HD" group-title="Эфирные",РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1  tvg-name="Пятый канал" group-title="Эфирные",5 канал Россия
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1  tvg-name="12 канал (Омск)" group-title="Эфирные",12 Канал (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+#EXTINF:-1  tvg-name="12 канал (Омск)" group-title="Эфирные",12 канал HD (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8
+#EXTINF:-1  tvg-name="12 канал (Омск)" group-title="Эфирные",12 канал HD (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1  tvg-name="Омск-ТВ" group-title="Эфирные",Омск-ТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OMSKTV/variant.m3u8?version=2
+#EXTINF:-1  tvg-name="Первый городской (Омск)" group-title="Эфирные",Первый городской (Омск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
+#EXTINF:-1  tvg-name="НТВ HD" group-title="Эфирные",НТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="НТВ HD" group-title="Эфирные",НТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://livetv.mylifeisgood.net.ru/channels/ntv.m3u8
+#EXTINF:-1  tvg-name="НТВ" group-title="Эфирные",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1  tvg-name="НТВ" group-title="Эфирные",НТВ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?checkedby:iptvcat.net
+#EXTINF:-1  tvg-name="ТВЦ" group-title="Эфирные",ТВ Центр
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1  tvg-name="ТВЦ +2" group-title="Эфирные",ТВ Центр +2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1  tvg-name="ОТР" group-title="Эфирные",ОТР
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1  tvg-name="ОТР" group-title="Эфирные",ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1  tvg-name="Домашний HD" group-title="Эфирные",Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1  tvg-name="Домашний" group-title="Эфирные",Домашний
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1  tvg-name="Спас" group-title="Эфирные",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1  tvg-name="Спас" group-title="Эфирные",Спас
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1  tvg-name="Союз" group-title="Эфирные",Союз HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1  tvg-name="Союз" group-title="Эфирные",Союз HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Soyuz/index.m3u8?token=test
+#EXTINF:-1  tvg-name="Мир 24" group-title="Эфирные",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1  tvg-name="Мир HD" group-title="Эфирные",Мир HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1  tvg-name="Мир HD" group-title="Эфирные",Мир HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/217/tracks-v1a1/index.m3u8
+#EXTINF:-1  tvg-name="Мир" group-title="Эфирные",Мир
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1  tvg-name="Мир" group-title="Эфирные",Мир +4
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1  tvg-name="РОССИЯ Культура" group-title="Эфирные",Культура HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1  tvg-name="РОССИЯ Культура" group-title="Эфирные",Культура
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_ROSSIAK/variant.m3u8
+#EXTINF:-1  tvg-name="РОССИЯ Культура" group-title="Эфирные",Культура
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1  tvg-name="ТВ3 HD" group-title="Эфирные",ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+#EXTINF:-1  tvg-name="ТВ3" group-title="Эфирные",ТВ-3
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV3/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:-1  tvg-name="ТВ3" group-title="Эфирные",ТВ-3
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1  tvg-name="СТС" group-title="Эфирные",СТС
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1  tvg-name="СТС HD" group-title="Эфирные",СТС HD
+http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
+#EXTINF:-1  tvg-name="СТС HD" group-title="Эфирные",СТС HD
+http://stream02.vnet.am/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-name="СТС HD" group-title="Эфирные",СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1  tvg-name="СТС Love" group-title="Эфирные",СТС Love
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1  tvg-name="ТНТ" group-title="Эфирные",ТНТ
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1  tvg-name="ТНТ HD" group-title="Эфирные",ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1  tvg-name="ТНТ4 HD" group-title="Эфирные",ТНТ4
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1  tvg-name="ТНТ4 HD" group-title="Эфирные",ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1  tvg-name="Ю ТВ" group-title="Эфирные",Ю
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1  tvg-name="Пятница!" group-title="Эфирные",Пятница! HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1  tvg-name="Пятница!" group-title="Эфирные",Пятница!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1  tvg-name="Че!" group-title="Эфирные",Че!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1  tvg-name="Че!" group-title="Эфирные",Че!
+#EXTVLCOPT:http-user-agent=SmartLabs
+http://178.212.71.253:8002/play/a00s/index.m3u8
+#EXTINF:-1  tvg-name="Перец International" group-title="Эфирные",Перец
+http://stream01.vnet.am/Perec/mono.m3u8
+#EXTINF:-1  tvg-name="Якутия 24" group-title="Эфирные",Якутия 24
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
+#EXTINF:-1  tvg-name="Якутия 24 HD" group-title="Эфирные",Якутия 24 HD (Якутск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
+#EXTINF:-1  tvg-name="НВК Саха FHD" group-title="Эфирные",НВК САХА HD (Якутск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8
+#EXTINF:-1  tvg-name="НВК Саха FHD" group-title="Эфирные",НВК САХА HD (Якутск)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1  tvg-name="Алмазный край" group-title="Эфирные",Алмазный край
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://stream.almaz-media.tv:8080/hls/576.m3u8
+#EXTINF:-1  tvg-name="Беларусь 24" group-title="Эфирные",Беларусь 24 HD (Беларусь)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1  tvg-name="TV Rus" tvg-logo="*" group-title="Эфирные",TV Rus
+http://99c385b6.amazzin.pw/iptv/K2LTLTY5Y7X65V/14022/index.m3u8

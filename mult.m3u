@@ -1,0 +1,135 @@
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-name="МультСказки HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",МультСказки HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-name="СоюзМультфильм"tvg-logo=""group-title="Мультфильмы":http-user-agent="",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-name="МУЛЬТ И МУЗЫКА"tvg-logo=""group-title="Мультфильмы":http-user-agent="",МУЛЬТ И МУЗЫКА
+http://dmi3y-tv.ru/hls/CH_MULTIMUZYKA.m3u8
+#EXTINF:-1 tvg-name="КИНОМУЛЬТ"tvg-logo=""group-title="Мультфильмы":http-user-agent="",КИНОМУЛЬТ
+http://dmi3y-tv.ru/hls/CH_KINOMULT.m3u8
+#EXTINF:-1 tvg-name="Retro Cartoon"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+#EXTINF:-1 tvg-name="Детское Кино International"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Детское Кино International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 tvg-name="Детское Кино International"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Детское Кино International
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-name="Детский мир"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Детский мир
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:-1 tvg-name="Детский мир"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Детский мир
+http://dmi3y-tv.ru/hls/CH_DETSKIY_MIR.m3u8
+#EXTINF:-1 tvg-name="Мультики и Сказки HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мультики и Сказки HD
+http://195.9.195.3:8080/hls/198446.m3u8
+#EXTINF:-1 tvg-name="В гостях у сказки"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",В гостях у сказки
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.224.169.250:5000/c62
+#EXTINF:-1 tvg-name="В гостях у сказки"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",В гостях у сказки (HD)
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Ani"tvg-logo="https://picon.ml/ani.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Ani
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-name="Ani"tvg-logo="https://picon.ml/ani.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Ani
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_ANI.m3u8
+#EXTINF:-1 tvg-name="Duck TV"tvg-logo="*"group-title="Мультфильмы":http-user-agent="",Duck TV HD
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 tvg-name="Fox Kids HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Fox Kids HD
+https://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 tvg-name="Капитан Фантастика"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Капитан Фантастика
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_KAPITANFANTASTIKAHD.m3u8
+#EXTINF:-1 tvg-name="Карусель"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 tvg-name="Карусель"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мама"tvg-logo="https://picon.ml/mama.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Мама HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://31.148.48.15:80/Mama/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мама"tvg-logo="https://picon.ml/mama.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Мама
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stream01.vnet.am/Mama/mono.m3u8
+#EXTINF:-1 tvg-name="Мама"tvg-logo="https://picon.ml/mama.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Мама
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_MAMA.m3u8
+#EXTINF:-1 tvg-name="Мульт"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мульт HD
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:-1 tvg-name="Мульт"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мульт HD
+http://dmi3y-tv.ru/hls/CH_MULTHD.m3u8
+#EXTINF:-1 tvg-name="Мульт"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-name="Мульт"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мульт
+http://31.148.48.15:80/Mult/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мультиландия"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мультиландия HD
+http://93.189.224.246:52900/play/a00m/index.m3u8
+#EXTINF:-1 tvg-name="Мультиландия"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Мультиландия HD
+http://185.50.148.2:7706/Multimania/index.m3u8
+#EXTINF:-1 tvg-name="МультиМузыка"tvg-logo="https://picon.ml/multimuzyka.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",МультиМузыка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-name="МультиМузыка"tvg-logo="https://picon.ml/multimuzyka.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",МультиМузыка
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://91.142.158.107:8092/play/24/index.m3u8
+#EXTINF:-1 tvg-name="О!"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",О!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_O.m3u8
+#EXTINF:-1 tvg-name="О!"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",О!
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://188.113.190.15/136/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Рыжий"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Рыжий
+http://91.207.115.228:12000/play/a01p
+#EXTINF:-1 tvg-name="Солнце"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 tvg-name="Солнце"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Солнце
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1 tvg-name="СТС Kids HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",СТС Kids HD
+http://130.193.73.10:8937/play/a017
+#EXTINF:-1 tvg-name="СТС Kids HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",СТС Kids
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TiJi"tvg-logo="https://picon.ml/tiji.png"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",TiJi
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 tvg-name="JimJam"tvg-logo="*"group-title="Мультфильмы":http-user-agent="",JimJam
+http://193.111.244.35:8001/jimjam/index.m3u8
+#EXTINF:-1 tvg-name="Уникум"tvg-logo="https://picon.ml/unikum.png"group-title="Мультфильмы":http-user-agent="",Уникум
+http://31.148.48.15:80/Detskiy/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Уникум"tvg-logo="https://picon.ml/unikum.png"group-title="Мультфильмы":http-user-agent="",Уникум
+http://dmi3y-tv.ru/hls/CH_UNIKUM.m3u8
+#EXTINF:-1 tvg-name="Gulli"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Gulli
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://dmi3y-tv.ru/hls/CH_GULLIGIRL.m3u8
+#EXTINF:-1 tvg-name="Nick Jr"tvg-logo="*"group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Nick Jr
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://81.7.108.21:9000/play/NickJr-DVBC346-sti4400019110542
+#EXTINF:-1 tvg-name="Nickelodeon HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Nickelodeon HD
+http://31.148.48.15:80/Nickelodeon/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Nickelodeon HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Nickelodeon HD
+http://dmi3y-tv.ru/hls/CH_NICKELODEONHD.m3u8
+#EXTINF:-1 tvg-name="Nick Toons HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Nick Toons HD
+https://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-name="Nick Toons HD"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Nick Toons HD
+http://dmi3y-tv.ru/hls/CH_NICKTOONSHD.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Cartoon Classics
+http://88.218.242.237:8000/play/a00f
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Cartoon Network
+http://stream01.vnet.am/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Cartoon Network
+http://dmi3y-tv.ru/hls/CH_CARTOONNETWORK.m3u8
+#EXTINF:-1 tvg-name="2x2"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",2x2
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Суббота
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 tvg-name="Суббота"tvg-logo=""group-title="Мультфильмы":http-user-agent="WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer",Суббота HD
+#EXTVLCOPT:http-user-agent=WINK/1.36.1 (AndroidTV/9) HlsWinkPlayer
+http://195.26.83.96:7013/play/a00e/index.m3u8
+#EXTINF:-1 tvg-name="Смайлик ТВ"tvg-logo=""group-title="Мультфильмы":http-user-agent="",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Da Vinci Kids"tvg-logo="*"group-title="Мультфильмы":http-user-agent="",Da Vinci Kids
+http://92.242.110.52:9835/udp/238.1.8.45:1234
