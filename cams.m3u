@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 ,ВХОД в Подъезд №2
+rtsp://admin:adminadmin@192.168.1.120:554/live/main
+#EXTINF:-1 ,Цокольный Этаж
+rtsp://192.168.1.13/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,11 Этаж
+rtsp://192.168.1.22/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,13 Этаж
+rtsp://192.168.1.21/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,Ворота Дмитриева
+rtsp://192.168.1.51/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,Стоянка Дмитриева
+rtsp://192.168.1.52/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,Стоянка
+rtsp://192.168.1.55/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,Мусорка
+rtsp://192.168.1.57/user=admin&password=&channel=1&stream=0.sdp?real_stream
+#EXTINF:-1 ,Стоянка 70 лет
+rtsp://root:12345@192.168.1.59/stream=0
+#EXTINF:-1 ,Стоянка Внутри двора
+rtsp://admin:12345@192.168.1.60/0
+#EXTINF:-1 ,Подъезд №2
+rtsp://192.168.1.56/user=admin&password=&channel=1&stream=0.sdp?real_stream
